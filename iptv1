@@ -1,7 +1,69 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Mundo Y Cultura" tvg-chno="" tvg-id="" tvg-country="" tvg-logo="" ,A&E
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="001", Azteca Uno
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=aztecauno&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="002", EL DOS
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=eldos&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="003", CANAL 5
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=elcinco&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="004", AZTECA 7
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=azteca7&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="005", NU9VE
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=nueve&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="006", DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=distrito&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="007", IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=imagentv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="008", UNICABLE
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=unicable&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="009", MEXIQUENSE
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=mexiquense&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="010", MULTIMEDIOS
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=multimedios&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="011", MVS TV
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=mvstv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="012", TV CUATRO
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=tvcuatro&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="013", ONCE TV
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=oncetv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="014", ADN40
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=adn40&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="015", CNN
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=cnnes&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="016", FORO TV
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=forotv&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="017", MILENIO
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=milenio&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="018", GALAVISION
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=galavision&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="019", TELEMUNDO
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=telemundo&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="020", UNIMAS
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=unimas&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="021", UNIVISION
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=univisionhd&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="022", CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=claro&f=.m3u8
+
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-chno="102", TVMatic Crafts
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-chno="102", A&E
 http://zutv.online:2086/live/adfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafv/adfvafvaf
 
-#EXTINF:-1 group-title="TV Española" tvg-chno="401" tvg-id="" tvg-country="España" tvg-logo="", 24H Canarias
+
+#EXTINF:-1 group-title="DEPORTRES" tvg-chno="201", TVMatic Sport
 http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 group-title="DEPORTRES" tvg-chno="202", TVMatic Fight
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 group-title="DEPORTRES" tvg-chno="203", ESPN
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=espn1mx&f=.m3u8
+
+
+#EXTINF:-1 group-title="KIDS" tvg-chno="301", Baby TV
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=babytv&f=.m3u8
+
+#EXTINF:-1 group-title="TV ESPAñOLA" tvg-chno="901", 24H Canarias
+http://cdn.tvmatic.net/sport.m3u8
+
+
