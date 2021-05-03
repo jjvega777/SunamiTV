@@ -1,18 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="" tvg-chno="001" group-title="MEXICO Y NOTICIAS",Azteca Uno
+#EXTINF:-1 tvg-id="001" tvg-name="Azteca Uno" tvg-logo="" tvg-chno="001" group-title="MEXICO Y NOTICIAS",Azteca Uno
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=aztecauno&f=.m3u8
+
+#EXTINF:-1 tvg-id="002" tvg-name="EL DOS" tvg-logo="" tvg-chno="002" group-title="MEXICO Y NOTICIAS",EL DOS
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=eldos&f=.m3u8
+#EXTINF:-1 tvg-id="003" tvg-name="CANAL 5" tvg-logo="" tvg-chno="003" group-title="MEXICO Y NOTICIAS",CANAL 5
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=elcinco&f=.m3u8
+#EXTINF:-1 tvg-id="004" tvg-name="AZTECA 7" tvg-logo="" tvg-chno="004" group-title="MEXICO Y NOTICIAS",AZTECA 7
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=azteca7&f=.m3u8
+#EXTINF:-1 tvg-id="005" tvg-name="NU9VE" tvg-logo="" tvg-chno="005" group-title="MEXICO Y NOTICIAS",NU9VE
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=nueve&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="MEXICO Y NOTICIAS",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO Y NOTICIAS", EL DOS
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=eldos&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS", CANAL 5
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=elcinco&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS", AZTECA 7
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=azteca7&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS", NU9VE
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=nueve&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="006", DISTRITO COMEDIA
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=distrito&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="007", IMAGEN TV
