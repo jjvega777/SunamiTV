@@ -11,11 +11,11 @@ http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=elcinco&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=azteca7&f=.m3u8
 #EXTINF:-1 tvg-id="005" tvg-name="NU9VE" tvg-logo="" tvg-chno="005" group-title="MEXICO Y NOTICIAS",NU9VE
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=nueve&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="MEXICO Y NOTICIAS",
-
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="006", DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="006" tvg-name="DISTRITO COMEDIA" tvg-logo="" tvg-chno="006" group-title="MEXICO Y NOTICIAS",DISTRITO COMEDIA
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=distrito&f=.m3u8
+
+#EXTINF:-1 tvg-id="007" tvg-name="" tvg-logo="" tvg-chno="" group-title="MEXICO Y NOTICIAS",007 test1
+
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="007", IMAGEN TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=imagentv&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="008", UNICABLE
