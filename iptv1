@@ -1,14 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="001", Azteca Uno
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="" tvg-chno="001" group-title="MEXICO Y NOTICIAS",Azteca Uno
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=aztecauno&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="002", EL DOS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="MEXICO Y NOTICIAS",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO Y NOTICIAS", EL DOS
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=eldos&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="003", CANAL 5
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS", CANAL 5
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=elcinco&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="004", AZTECA 7
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS", AZTECA 7
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=azteca7&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="005", NU9VE
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS", NU9VE
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=nueve&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="006", DISTRITO COMEDIA
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=distrito&f=.m3u8
@@ -46,10 +49,12 @@ http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=univisionhd&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=claro&f=.m3u8
 
 
+
 #EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-chno="101", TVMatic Crafts
 http://cdn.tvmatic.net/crafts.m3u8
 #EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-chno="102", A&E
 http://zutv.online:2086/live/adfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafv/adfvafvaf
+
 
 
 #EXTINF:-1 group-title="DEPORTRES" tvg-chno="201", TVMatic Sport
@@ -66,4 +71,4 @@ http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=babytv&f=.m3u8
 #EXTINF:-1 group-title="TV ESPAñOLA" tvg-chno="901", 24H Canarias
 http://cdn.tvmatic.net/sport.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="",
