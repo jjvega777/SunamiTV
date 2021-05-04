@@ -1,75 +1,80 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="001" tvg-name="Azteca Uno" tvg-logo="" tvg-chno="001" group-title="MEXICO Y NOTICIAS",Azteca Uno
+
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",Azteca Uno
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=aztecauno&f=.m3u8
-
-#EXTINF:-1 tvg-id="002" tvg-name="EL DOS" tvg-logo="" tvg-chno="002" group-title="MEXICO Y NOTICIAS",EL DOS
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",EL DOS
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=eldos&f=.m3u8
-#EXTINF:-1 tvg-id="003" tvg-name="CANAL 5" tvg-logo="" tvg-chno="003" group-title="MEXICO Y NOTICIAS",CANAL 5
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",CANAL 5
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=elcinco&f=.m3u8
-#EXTINF:-1 tvg-id="004" tvg-name="AZTECA 7" tvg-logo="" tvg-chno="004" group-title="MEXICO Y NOTICIAS",AZTECA 7
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",AZTECA 7
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=azteca7&f=.m3u8
-#EXTINF:-1 tvg-id="005" tvg-name="NU9VE" tvg-logo="" tvg-chno="005" group-title="MEXICO Y NOTICIAS",NU9VE
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",NU9VE
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=nueve&f=.m3u8
-#EXTINF:-1 tvg-id="006" tvg-name="DISTRITO COMEDIA" tvg-logo="" tvg-chno="006" group-title="MEXICO Y NOTICIAS",DISTRITO COMEDIA
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",DISTRITO COMEDIA
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=distrito&f=.m3u8
-
-#EXTINF:-1 tvg-id="007" tvg-name="" tvg-logo="" tvg-chno="" group-title="MEXICO Y NOTICIAS",007 test1
-
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="007", IMAGEN TV
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",IMAGEN TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=imagentv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="008", UNICABLE
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",UNICABLE
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=unicable&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="009", MEXIQUENSE
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",MEXIQUENSE
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=mexiquense&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="010", MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=multimedios&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="011", MVS TV
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",MVS TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=mvstv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="012", TV CUATRO
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",MULTIMEDIOS
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=multimedios&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",TV CUATRO
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=tvcuatro&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="013", ONCE TV
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",ONCE TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=oncetv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="014", ADN40
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",ADN40
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=adn40&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="015", CNN
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",CNN
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=cnnes&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="016", FORO TV
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",FORO TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=forotv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="017", MILENIO
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=milenio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="018", GALAVISION
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",MILENIO
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",GALAVISION
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=galavision&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="019", TELEMUNDO
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",TELEMUNDO
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=telemundo&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="020", UNIMAS
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",UNIMAS
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=unimas&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="021", UNIVISION
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",UNIVISION
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=univisionhd&f=.m3u8
-#EXTINF:-1 group-title="MEXICO Y NOTICIAS" tvg-chno="022", CANAL CLARO
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",CANAL CLARO
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=claro&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",
 
 
 
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-chno="101", TVMatic Crafts
+#EXTINF:-1 group-title="MUNDO Y CULTURA",TVMatic Crafts
 http://cdn.tvmatic.net/crafts.m3u8
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-chno="102", A&E
+#EXTINF:-1 group-title="MUNDO Y CULTURA",A&E
 http://zutv.online:2086/live/adfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafv/adfvafvaf
+#EXTINF:-1 group-title="MUNDO Y CULTURA",
 
 
-
-#EXTINF:-1 group-title="DEPORTRES" tvg-chno="201", TVMatic Sport
+#EXTINF:-1 group-title="DEPORTRES",TVMatic Sport
 http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 group-title="DEPORTRES" tvg-chno="202", TVMatic Fight
+#EXTINF:-1 group-title="DEPORTRES",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 group-title="DEPORTRES" tvg-chno="203", ESPN
+#EXTINF:-1 group-title="DEPORTRES", ESPN
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=espn1mx&f=.m3u8
+#EXTINF:-1 group-title="DEPORTRES",
+#EXTINF:-1 group-title="DEPORTRES",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTRES",
 
 
-#EXTINF:-1 group-title="KIDS" tvg-chno="301", Baby TV
+
+#EXTINF:-1 group-title="KIDS",Baby TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=babytv&f=.m3u8
+#EXTINF:-1 group-title="KIDS",
 
-#EXTINF:-1 group-title="TV ESPAñOLA" tvg-chno="901", 24H Canarias
+
+
+#EXTINF:-1 group-title="TV ESPAñOLA",24H Canarias
 http://cdn.tvmatic.net/sport.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="",
+#EXTINF:-1 group-title="TV ESPAñOLA",
