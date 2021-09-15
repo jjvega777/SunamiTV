@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Event",Channel 1
+http://45.225.204.7:8000/play/a02q
 
+
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",Canal de las Estrellas
+http://38.131.11.9:1080/play/a032
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",Azteca Uno
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=aztecauno&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",EL DOS
@@ -18,13 +23,19 @@ http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=imagentv&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",UNICABLE
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=unicable&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",MEXIQUENSE
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=mexiquense&f=.m3u8
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",MVS TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=mvstv&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=multimedios&f=.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",Multimedios Guadalajara (720p)
+http://mdstrm.com/live-stream-playlist_400/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",Multimedios Laguna (720p)
+http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",TV CUATRO
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=tvcuatro&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",Once Mexico (720p)
+http://38.131.11.9:1080/play/a032
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",ONCE TV
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=oncetv&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",ADN40
@@ -44,6 +55,72 @@ http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=unimas&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",UNIVISION
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=univisionhd&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=claro&f=.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",Canal Catorce (720p)
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",
+#EXTINF:-1 group-title="MEXICO Y NOTICIAS",
+
+
+
+#EXTINF:-1 group-title="MUNDO Y CULTURA",María Visión Mexico (1080p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA",TVMatic Crafts
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA",A&E
+http://zutv.online:2086/live/adfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafvadfvafvafvafv/adfvafvaf
+#EXTINF:-1 group-title="MUNDO Y CULTURA",
+#EXTINF:-1 group-title="MUNDO Y CULTURA",
+#EXTINF:-1 group-title="MUNDO Y CULTURA",
+
+
+
+
+#EXTINF:-1 group-title="DEPORTRES",TVMatic Sport
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 group-title="DEPORTRES",TVMatic Fight
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 group-title="DEPORTRES", ESPN
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=espn1mx&f=.m3u8
+#EXTINF:-1 group-title="DEPORTRES",
+#EXTINF:-1 group-title="DEPORTRES",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTRES",Sports Tonight (576p)
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="DEPORTRES",Sport en France
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTRES",
+#EXTINF:-1 group-title="DEPORTRES",
+#EXTINF:-1 group-title="DEPORTRES",
+
+
+
+
+#EXTINF:-1 group-title="KIDS",Baby TV
+http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=babytv&f=.m3u8
+#EXTINF:-1 group-title="KIDS",
+#EXTINF:-1 group-title="KIDS",
+#EXTINF:-1 group-title="KIDS",
+
+
+
+
+#EXTINF:-1 group-title="Internacional",24H Canarias
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 group-title="Internacional",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="Internacional",
+#EXTINF:-1 group-title="Internacional",
+#EXTINF:-1 group-title="Internacional",
+
+
+
+
 http://ipeteve.com/php/SR_REGIO_322/regio22.php?c=claro&f=.m3u8
 #EXTINF:-1 group-title="MEXICO Y NOTICIAS",
 
