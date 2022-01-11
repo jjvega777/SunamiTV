@@ -1,115 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="-" tvg-id="100" group-title="Mexico y Noticias",-
--
-#EXTINF:-1 tvg-name="Uno TV " tvg-id="101" group-title="Mexico y Noticias",101
+#EXTINF:-1  tvg-id="101" group-title="Mexico y Noticias",Uno TV
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-#EXTINF:-1 tvg-name="ADN40" tvg-id="102" group-title="Mexico y Noticias",102
+#EXTINF:-1  tvg-id="102" group-title="Mexico y Noticias",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-name="Once Mexico" tvg-id="103" group-title="Mexico y Noticias",103
+#EXTINF:-1  tvg-id="103" group-title="Mexico y Noticias",Once Mexico
 https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title",Name2
-Link
-#EXTINF:-1 tvg-name="Milenio" tvg-id="129" group-title="Mexico y Noticias",129
-Link
-#EXTINF:-1 tvg-name="Multimedios Monterrey" tvg-id="130" group-title="Mexico y Noticias",130
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-name="Multimedios Guadalajara" tvg-id="131" group-title="Mexico y Noticias",131
-http://mdstrm.com/live-stream-playlist_400/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-name="Multimedios Laguna" tvg-id="132" group-title="Mexico y Noticias",132
-http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-name="Multimedios" tvg-id="129" group-title="Mexico y Noticias",129
+#EXTINF:-1  tvg-id="129" group-title="Mexico y Noticias",Multimedios
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-name="MEXIQUENSE" tvg-id="134" group-title="Mexico y Noticias",134
+#EXTINF:-1  tvg-id="130" group-title="Mexico y Noticias",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1  tvg-id="131" group-title="Mexico y Noticias",Multimedios Guadalajara
+http://mdstrm.com/live-stream-playlist_400/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1  tvg-id="132" group-title="Mexico y Noticias",Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1  tvg-id="134" group-title="Mexico y Noticias",MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
-#EXTINF:-1 tvg-name="Canal Catorce" tvg-id="136" group-title="Mexico y Noticias",136
+#EXTINF:-1  tvg-id="136" group-title="Mexico y Noticias",Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1 tvg-name="Canal 10 Cancún" tvg-id="137" group-title="Mexico y Noticias",137
+#EXTINF:-1  tvg-id="137" group-title="Mexico y Noticias",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:-1 tvg-name="Canal 26" tvg-id="138" group-title="Mexico y Noticias",138
+#EXTINF:-1  tvg-id="138" group-title="Mexico y Noticias",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Mundo+" tvg-id="139" group-title="Mexico y Noticias",139
+#EXTINF:-1  tvg-id="139" group-title="Mexico y Noticias",Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-name="Capital 21" tvg-id="140" group-title="Mexico y Noticias",140
+#EXTINF:-1  tvg-id="140" group-title="Mexico y Noticias",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-name="TVP" tvg-id="141" group-title="Mexico y Noticias",141
+#EXTINF:-1  tvg-id="141" group-title="Mexico y Noticias",TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-name="TVP Los Mochis" tvg-id="142" group-title="Mexico y Noticias",142
+#EXTINF:-1  tvg-id="142" group-title="Mexico y Noticias",TVP Los Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w52505888_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-name="-" tvg-id="143" group-title="Mexico y Noticias",-
--
-#EXTINF:-1 tvg-name="Univision Network" tvg-id="162" group-title="Mexico y Noticias",162
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/1407?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Univision KMex" tvg-id="161" group-title="Mexico y Noticias",161
-http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1998?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="CNN en Español" tvg-id="158" group-title="Mexico y Noticias",158
+#EXTINF:-1  tvg-id="158" group-title="Mexico y Noticias",CNN en Español
 http://187.94.148.10:8090/play/a018/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="CNN International 1" tvg-id="159" group-title="Mexico y Noticias",159
+#EXTINF:-1  tvg-id="159" group-title="Mexico y Noticias",CNN International 1
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="CNN International 2" tvg-id="160" group-title="Mexico y Noticias",160
+#EXTINF:-1  tvg-id="160" group-title="Mexico y Noticias",CNN International 2
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-id="180" group-title="Mexico y Noticias",180
+#EXTINF:-1  tvg-id="161" group-title="Mexico y Noticias",Univision KMex
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1998?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="162" group-title="Mexico y Noticias",Univision Network
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/1407?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="180" group-title="Mexico y Noticias",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 Español" tvg-id="181" group-title="Mexico y Noticias",181
+#EXTINF:-1  tvg-id="181" group-title="Mexico y Noticias",France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-name="-" tvg-id="200" group-title="Mundo",-
--
-#EXTINF:-1 tvg-name=" E! ENTERTANMENT" tvg-id="201" group-title="Mundo",201
+#EXTINF:-1  tvg-id="201" group-title="Mundo",E! ENTERTANMENT
 http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-name="Name" tvg-id="202" group-title="Mundo",202
-Link
-#EXTINF:-1 tvg-name="Name" tvg-id="203" group-title="Mundo",203
-Link
-#EXTINF:-1 tvg-name="Nuevo Tiempo" tvg-id="280" group-title="Mundo",280
+#EXTINF:-1  tvg-id="280" group-title="Mundo",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="-" tvg-id="500" group-title="Deportes",-
--
-#EXTINF:-1 tvg-name="Name" tvg-id="501" group-title="Deportes",501
-Link
-#EXTINF:-1 tvg-name="Fuel TV" tvg-id="550" group-title="Deportes",550
+#EXTINF:-1  tvg-id="550" group-title="Deportes",Fuel TV
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel HD" tvg-id="551" group-title="Deportes",551
+#EXTINF:-1  tvg-id="551" group-title="Deportes",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Look Sport +" tvg-id="552" group-title="Deportes",552
+#EXTINF:-1  tvg-id="552" group-title="Deportes",Look Sport +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
-#EXTINF:-1 tvg-name="Look Sport 1" tvg-id="553" group-title="Deportes",553
+#EXTINF:-1  tvg-id="553" group-title="Deportes",Look Sport 1
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
-#EXTINF:-1 tvg-name="Look Sport 2" tvg-id="554" group-title="Deportes",554
+#EXTINF:-1  tvg-id="554" group-title="Deportes",Look Sport 2
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
-#EXTINF:-1 tvg-name="Look Sport 3" tvg-id="555" group-title="Deportes",555
+#EXTINF:-1  tvg-id="555" group-title="Deportes",Look Sport 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
-#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="599" group-title="Deportes",599
+#EXTINF:-1  tvg-id="599" group-title="Deportes",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-name="-" tvg-id="600" group-title="Automotor",-
--
-#EXTINF:-1 tvg-name="Garage TV" tvg-id="610" group-title="Automotor",610
+#EXTINF:-1  tvg-id="610" group-title="Automotor",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="-" tvg-id="800" group-title="Musica",-
--
-#EXTINF:-1 tvg-name="-" tvg-id="800" group-title="Musica",-
--
-#EXTINF:-1 tvg-name="TOP Latino TV" tvg-id="819" group-title="Musica",819
+#EXTINF:-1  tvg-id="819" group-title="Musica",TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Music Top" tvg-id="820" group-title="Musica",820
+#EXTINF:-1  tvg-id="820" group-title="Musica",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-name="TELE RITMO" tvg-id="821" group-title="Musica",821
+#EXTINF:-1  tvg-id="821" group-title="Musica",TELE RITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-name="RETRO MUSIC TV" tvg-id="822" group-title="Musica",822
+#EXTINF:-1  tvg-id="822" group-title="Musica",RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
-#EXTINF:-1 tvg-name="Conecta TV" tvg-id="823" group-title="Musica",823
+#EXTINF:-1  tvg-id="823" group-title="Musica",Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-name="-" tvg-id="900" group-title="TV Abierta Internacional",-
--
-#EXTINF:-1 tvg-name="Canal 26 HD" tvg-id="945" group-title="TV Abierta Internacional",945
+#EXTINF:-1  tvg-id="945" group-title="TV Abierta Internacional",Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-name="Telemax HD" tvg-id="946" group-title="TV Abierta Internacional",946
+#EXTINF:-1  tvg-id="946" group-title="TV Abierta Internacional",Telemax HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-id="947" group-title="TV Abierta Internacional",947
+#EXTINF:-1  tvg-id="947" group-title="TV Abierta Internacional",Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Señal Provincial San Miguel" tvg-id="948" group-title="TV Abierta Internacional",948
+#EXTINF:-1  tvg-id="948" group-title="TV Abierta Internacional",Señal Provincial San Miguel
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-name="Canal 5 TV Corrientes" tvg-id="949" group-title="TV Abierta Internacional",949
+#EXTINF:-1  tvg-id="949" group-title="TV Abierta Internacional",Canal 5 TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
-#EXTINF:-1 tvg-name="Multivision Cuba" tvg-id="950" group-title="TV Abierta Internacional",950
+#EXTINF:-1  tvg-id="950" group-title="TV Abierta Internacional",Multivision Cuba
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title",Name2
-Link
