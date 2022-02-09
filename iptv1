@@ -629,3 +629,5 @@ http://restream-live.realiptv.to:8080/waybetter3/live3/598378
 http://restream-live.realiptv.to:8080/waybetter3/live3/598379
 #EXTINF:0,UK earth Sports Racing (1080)
 http://restream-live.realiptv.to:8080/waybetter3/live3/527483
+#EXTINF:-1  tvg-id="101" group-title="Mexico y Noticias",Uno TV
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
