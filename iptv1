@@ -161,3 +161,2405 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
 #EXTINF:-1  tvg-id="950" group-title="TV Abierta Internacional",Multivision Cuba
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?
+#EXTINF:0,AR ESPN 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/1636
+#EXTINF:0,AR ESPN Extra
+http://restream-live.realiptv.to:8080/waybetter3/live3/2862
+#EXTINF:0,AR ESPN_2_HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2863
+#EXTINF:0,AR ESPN_3_HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2864
+#EXTINF:0,AR ESPN_HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2865
+#EXTINF:0,AR FOX_SPORTS_2_HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2880
+#EXTINF:0,AR FOX_SPORTS_3_HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2881
+#EXTINF:0,AR FOX_SPORTS_HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2882
+#EXTINF:0,AR TYC_SPORTS
+http://restream-live.realiptv.to:8080/waybetter3/live3/2942
+#EXTINF:0,AR- NIeb SPORTS 1 English FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548627
+#EXTINF:0,AR- NIeb SPORTS 1 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548620
+#EXTINF:0,AR- NIeb SPORTS 1 Premium FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548617
+#EXTINF:0,AR- NIeb SPORTS 2 English FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548628
+#EXTINF:0,AR- NIeb SPORTS 2 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548621
+#EXTINF:0,AR- NIeb SPORTS 2 French FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548631
+#EXTINF:0,AR- NIeb SPORTS 2 Premium FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548618
+#EXTINF:0,AR- NIeb SPORTS 3 English FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548629
+#EXTINF:0,AR- NIeb SPORTS 3 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548622
+#EXTINF:0,AR- NIeb SPORTS 3 FrenchFHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548632
+#EXTINF:0,AR- NIeb SPORTS 3 Premium FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548619
+#EXTINF:0,AR- NIeb SPORTS 4 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548623
+#EXTINF:0,AR- NIeb SPORTS 5 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548624
+#EXTINF:0,AR- NIeb SPORTS 6 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548625
+#EXTINF:0,AR- NIeb SPORTS 7 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548626
+#EXTINF:0,AR- NIeb SPORTS News
+http://restream-live.realiptv.to:8080/waybetter3/live3/548616
+#EXTINF:0,AR- NIeb SPORTS XTRA 1 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548633
+#EXTINF:0,AR- NIeb SPORTS XTRA 2 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/548634
+#EXTINF:0,AU NIeb Sports 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/21616
+#EXTINF:0,AU NIeb Sports 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/21617
+#EXTINF:0,AU Fox Sports 501 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21618
+#EXTINF:0,AU Fox Sports 502 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21619
+#EXTINF:0,AU Fox Sports 502 NRL
+http://restream-live.realiptv.to:8080/waybetter3/live3/144729
+#EXTINF:0,AU Fox Sports 503 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21620
+#EXTINF:0,AU Fox Sports 504 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21621
+#EXTINF:0,AU Fox Sports 504 NRL
+http://restream-live.realiptv.to:8080/waybetter3/live3/144730
+#EXTINF:0,AU Fox Sports 505 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21622
+#EXTINF:0,AU Fox Sports 506 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21623
+#EXTINF:0,AU Fox Sports 507 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21624
+#EXTINF:0,AU Fox Sports Feed 1 FHD (Kayo)
+http://restream-live.realiptv.to:8080/waybetter3/live3/383395
+#EXTINF:0,AU Fox Sports Feed 2 FHD (Kayo)
+http://restream-live.realiptv.to:8080/waybetter3/live3/383396
+#EXTINF:0,AU Fox Sports Feed 3 FHD (Kayo)
+http://restream-live.realiptv.to:8080/waybetter3/live3/383397
+#EXTINF:0,AU Fox Sports Feed 4 FHD (Kayo)
+http://restream-live.realiptv.to:8080/waybetter3/live3/383398
+#EXTINF:0,AU Fox Sports Feed 5 FHD (Kayo)
+http://restream-live.realiptv.to:8080/waybetter3/live3/383399
+#EXTINF:0,AU Fox Sports News
+http://restream-live.realiptv.to:8080/waybetter3/live3/144731
+#EXTINF:0,AU Olympics_Channel Sydney (D)
+http://restream-live.realiptv.to:8080/waybetter3/live3/527466
+#EXTINF:0,AU RACING.COM Melbourne
+http://restream-live.realiptv.to:8080/waybetter3/live3/527320
+#EXTINF:0,AU Racing.com Perth
+http://restream-live.realiptv.to:8080/waybetter3/live3/527305
+#EXTINF:0,AU earth Racing 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/144727
+#EXTINF:0,AU earth Racing 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/144728
+#EXTINF:0,BR ESPN
+http://restream-live.realiptv.to:8080/waybetter3/live3/803
+#EXTINF:0,BR ESPN 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/785
+#EXTINF:0,BR ESPN BRAZIL
+http://restream-live.realiptv.to:8080/waybetter3/live3/784
+#EXTINF:0,BR FOX SPORTS
+http://restream-live.realiptv.to:8080/waybetter3/live3/778
+#EXTINF:0,BR FOX SPORTS 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/779
+#EXTINF:0,BR SPORTV 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/757
+#EXTINF:0,BR SPORTV 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/756
+#EXTINF:0,BR SPORTV 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/755
+#EXTINF:0,CA (FR) TVA SPORTS
+http://restream-live.realiptv.to:8080/waybetter3/live3/92658
+#EXTINF:0,CA NIeb SPORTS
+http://restream-live.realiptv.to:8080/waybetter3/live3/3153
+#EXTINF:0,CA NIeb Sports HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/88062
+#EXTINF:0,CA DAZN 01
+http://restream-live.realiptv.to:8080/waybetter3/live3/505752
+#EXTINF:0,CA Dazn 02
+http://restream-live.realiptv.to:8080/waybetter3/live3/505753
+#EXTINF:0,CA Dazn 03
+http://restream-live.realiptv.to:8080/waybetter3/live3/505754
+#EXTINF:0,CA Dazn 04
+http://restream-live.realiptv.to:8080/waybetter3/live3/505755
+#EXTINF:0,CA Dazn 05
+http://restream-live.realiptv.to:8080/waybetter3/live3/505756
+#EXTINF:0,CA Dazn 06
+http://restream-live.realiptv.to:8080/waybetter3/live3/505757
+#EXTINF:0,CA Dazn 07
+http://restream-live.realiptv.to:8080/waybetter3/live3/505758
+#EXTINF:0,CA Dazn 08
+http://restream-live.realiptv.to:8080/waybetter3/live3/505759
+#EXTINF:0,CA Dazn 09
+http://restream-live.realiptv.to:8080/waybetter3/live3/505760
+#EXTINF:0,CA Dazn 10
+http://restream-live.realiptv.to:8080/waybetter3/live3/505761
+#EXTINF:0,CA Dazn 11
+http://restream-live.realiptv.to:8080/waybetter3/live3/505762
+#EXTINF:0,CA Dazn 12
+http://restream-live.realiptv.to:8080/waybetter3/live3/505763
+#EXTINF:0,CA Dazn 13
+http://restream-live.realiptv.to:8080/waybetter3/live3/505764
+#EXTINF:0,CA Fox Sports Racing
+http://restream-live.realiptv.to:8080/waybetter3/live3/3053
+#EXTINF:0,CA MLB Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/3150
+#EXTINF:0,CA bascket_TV
+http://restream-live.realiptv.to:8080/waybetter3/live3/3092
+#EXTINF:0,CA NFL Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/3067
+#EXTINF:0,CA SPORTSMAN (B)
+http://restream-live.realiptv.to:8080/waybetter3/live3/93136
+#EXTINF:0,CA SPORTSNET 360
+http://restream-live.realiptv.to:8080/waybetter3/live3/3073
+#EXTINF:0,CA SPORTSNET EAST
+http://restream-live.realiptv.to:8080/waybetter3/live3/3072
+#EXTINF:0,CA SPORTSNET ONE
+http://restream-live.realiptv.to:8080/waybetter3/live3/3071
+#EXTINF:0,CA SPORTSNET ONTARIO
+http://restream-live.realiptv.to:8080/waybetter3/live3/3070
+#EXTINF:0,CA SPORTSNET PACIFIC
+http://restream-live.realiptv.to:8080/waybetter3/live3/3069
+#EXTINF:0,CA SPORTSNET PPV
+http://restream-live.realiptv.to:8080/waybetter3/live3/3155
+#EXTINF:0,CA SPORTSNET WEST
+http://restream-live.realiptv.to:8080/waybetter3/live3/3068
+#EXTINF:0,CA Sportsnet World
+http://restream-live.realiptv.to:8080/waybetter3/live3/88060
+#EXTINF:0,CA SUPER SPORTS CH 296
+http://restream-live.realiptv.to:8080/waybetter3/live3/59872
+#EXTINF:0,CA SUPER SPORTS CH 297
+http://restream-live.realiptv.to:8080/waybetter3/live3/59873
+#EXTINF:0,CA SUPER SPORTS CH 322
+http://restream-live.realiptv.to:8080/waybetter3/live3/59874
+#EXTINF:0,CA SUPER SPORTS CH 323
+http://restream-live.realiptv.to:8080/waybetter3/live3/59875
+#EXTINF:0,CA SUPER SPORTS CH 324
+http://restream-live.realiptv.to:8080/waybetter3/live3/59876
+#EXTINF:0,CA SUPER SPORTS CH 368
+http://restream-live.realiptv.to:8080/waybetter3/live3/3341
+#EXTINF:0,CA SUPER SPORTS CH 368
+http://restream-live.realiptv.to:8080/waybetter3/live3/3201
+#EXTINF:0,CA SUPER SPORTS CH 422
+http://restream-live.realiptv.to:8080/waybetter3/live3/3207
+#EXTINF:0,CA SUPER SPORTS CH 431
+http://restream-live.realiptv.to:8080/waybetter3/live3/3313
+#EXTINF:0,CA SUPER SPORTS CH 432
+http://restream-live.realiptv.to:8080/waybetter3/live3/3342
+#EXTINF:0,CA SUPER SPORTS CH 433
+http://restream-live.realiptv.to:8080/waybetter3/live3/3315
+#EXTINF:0,CA SUPER SPORTS CH 434
+http://restream-live.realiptv.to:8080/waybetter3/live3/3316
+#EXTINF:0,CA SUPER SPORTS CH 435
+http://restream-live.realiptv.to:8080/waybetter3/live3/3317
+#EXTINF:0,CA SUPER SPORTS CH 436
+http://restream-live.realiptv.to:8080/waybetter3/live3/3343
+#EXTINF:0,CA SUPER SPORTS CH 437
+http://restream-live.realiptv.to:8080/waybetter3/live3/3344
+#EXTINF:0,CA SUPER SPORTS CH 438
+http://restream-live.realiptv.to:8080/waybetter3/live3/3345
+#EXTINF:0,CA SUPER SPORTS CH 439
+http://restream-live.realiptv.to:8080/waybetter3/live3/3346
+#EXTINF:0,CA SUPER SPORTS CH 440
+http://restream-live.realiptv.to:8080/waybetter3/live3/3347
+#EXTINF:0,CA SUPER SPORTS CH 440
+http://restream-live.realiptv.to:8080/waybetter3/live3/3322
+#EXTINF:0,CA SUPER SPORTS CH 441
+http://restream-live.realiptv.to:8080/waybetter3/live3/3348
+#EXTINF:0,CA SUPER SPORTS CH 442
+http://restream-live.realiptv.to:8080/waybetter3/live3/3349
+#EXTINF:0,CA SUPER SPORTS CH 443
+http://restream-live.realiptv.to:8080/waybetter3/live3/3350
+#EXTINF:0,CA SUPER SPORTS CH 444
+http://restream-live.realiptv.to:8080/waybetter3/live3/3351
+#EXTINF:0,CA SUPER SPORTS CH 450
+http://restream-live.realiptv.to:8080/waybetter3/live3/3352
+#EXTINF:0,CA SUPER SPORTS CH 452
+http://restream-live.realiptv.to:8080/waybetter3/live3/3328
+#EXTINF:0,CA SUPER SPORTS CH 453
+http://restream-live.realiptv.to:8080/waybetter3/live3/3329
+#EXTINF:0,CA SUPER SPORTS CH 454
+http://restream-live.realiptv.to:8080/waybetter3/live3/3332
+#EXTINF:0,CA SUPER SPORTS CH 455
+http://restream-live.realiptv.to:8080/waybetter3/live3/3330
+#EXTINF:0,CA SUPER SPORTS CH 456
+http://restream-live.realiptv.to:8080/waybetter3/live3/3331
+#EXTINF:0,CA SUPER SPORTS CH 457
+http://restream-live.realiptv.to:8080/waybetter3/live3/3333
+#EXTINF:0,CA SUPER SPORTS CH 458
+http://restream-live.realiptv.to:8080/waybetter3/live3/3334
+#EXTINF:0,CA SUPER SPORTS CH 459
+http://restream-live.realiptv.to:8080/waybetter3/live3/3335
+#EXTINF:0,CA SUPER SPORTS CH 460
+http://restream-live.realiptv.to:8080/waybetter3/live3/3336
+#EXTINF:0,CA SUPER SPORTS CH 461
+http://restream-live.realiptv.to:8080/waybetter3/live3/3337
+#EXTINF:0,CA SUPER SPORTS CH 461
+http://restream-live.realiptv.to:8080/waybetter3/live3/88025
+#EXTINF:0,CA SUPER SPORTS CH 462
+http://restream-live.realiptv.to:8080/waybetter3/live3/3354
+#EXTINF:0,CA SUPER SPORTS CH 464
+http://restream-live.realiptv.to:8080/waybetter3/live3/3339
+#EXTINF:0,CA SUPER SPORTS CH 465
+http://restream-live.realiptv.to:8080/waybetter3/live3/3340
+#EXTINF:0,CA SUPER SPORTS CH 472
+http://restream-live.realiptv.to:8080/waybetter3/live3/57828
+#EXTINF:0,CA SUPER SPORTS CH 473
+http://restream-live.realiptv.to:8080/waybetter3/live3/3355
+#EXTINF:0,CA SUPER SPORTS CH 474
+http://restream-live.realiptv.to:8080/waybetter3/live3/3356
+#EXTINF:0,CA SUPER SPORTS CH 475
+http://restream-live.realiptv.to:8080/waybetter3/live3/3357
+#EXTINF:0,CA SUPER SPORTS CH 476
+http://restream-live.realiptv.to:8080/waybetter3/live3/3358
+#EXTINF:0,CA SUPER SPORTS CH 477
+http://restream-live.realiptv.to:8080/waybetter3/live3/3359
+#EXTINF:0,CA SUPER SPORTS CH 478
+http://restream-live.realiptv.to:8080/waybetter3/live3/3361
+#EXTINF:0,CA SUPER SPORTS CH 479
+http://restream-live.realiptv.to:8080/waybetter3/live3/3360
+#EXTINF:0,CA SUPER SPORTS CH 480
+http://restream-live.realiptv.to:8080/waybetter3/live3/3362
+#EXTINF:0,CA SUPER SPORTS CH 481
+http://restream-live.realiptv.to:8080/waybetter3/live3/3363
+#EXTINF:0,CA SUPER SPORTS CH 482
+http://restream-live.realiptv.to:8080/waybetter3/live3/3364
+#EXTINF:0,CA SUPER SPORTS CH 483
+http://restream-live.realiptv.to:8080/waybetter3/live3/3365
+#EXTINF:0,CA SUPER SPORTS CH 484
+http://restream-live.realiptv.to:8080/waybetter3/live3/3366
+#EXTINF:0,CA TSN 1 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3146
+#EXTINF:0,CA TSN 2 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3145
+#EXTINF:0,CA TSN 3 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3144
+#EXTINF:0,CA TSN 4 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3143
+#EXTINF:0,CA TSN 5
+http://restream-live.realiptv.to:8080/waybetter3/live3/3142
+#EXTINF:0,CA TSN4 HD Blackout
+http://restream-live.realiptv.to:8080/waybetter3/live3/88078
+#EXTINF:0,CA TSN5 Blackout
+http://restream-live.realiptv.to:8080/waybetter3/live3/88079
+#EXTINF:0,CA TSN5 HD Blackout 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/88080
+#EXTINF:0,DE | DAZN SPORT 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/434604
+#EXTINF:0,DE | DAZN SPORT 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/434605
+#EXTINF:0,DE| earth BUNDESLIGA 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/523231
+#EXTINF:0,DE| earth BUNDESLIGA 2 HD weekend only
+http://restream-live.realiptv.to:8080/waybetter3/live3/523230
+#EXTINF:0,DE| earth BUNDESLIGA 3 HD weekend only
+http://restream-live.realiptv.to:8080/waybetter3/live3/523229
+#EXTINF:0,DE| earth BUNDESLIGA 4 HD weekend only
+http://restream-live.realiptv.to:8080/waybetter3/live3/523228
+#EXTINF:0,DE| earth BUNDESLIGA 5 HD weekend only
+http://restream-live.realiptv.to:8080/waybetter3/live3/523227
+#EXTINF:0,DE| earth BUNDESLIGA 7 HD weekend only
+http://restream-live.realiptv.to:8080/waybetter3/live3/523225
+#EXTINF:0,DE| earth BUNDESLIGA 8 HD weekend only
+http://restream-live.realiptv.to:8080/waybetter3/live3/523224
+#EXTINF:0,Fite TV 1 HD (D): FiteTV-Pro Wrestling Rocky Mountain Pro Charged: Episode 275 - Tue,08 Feb 21:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549836
+#EXTINF:0,Fite TV 1 SD (D): FiteTV-Pro Wrestling Rocky Mountain Pro Charged: Episode 275 - Tue,08 Feb 21:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549837
+#EXTINF:0,Fite TV 10 HD (D): FiteTV-MMA Roll in the Cage 4: Rundle vs Lindsay - Fri,11 Feb 20:30 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549854
+#EXTINF:0,Fite TV 10 SD (D): FiteTV-MMA Roll in the Cage 4: Rundle vs Lindsay - Fri,11 Feb 20:30 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549855
+#EXTINF:0,Fite TV 11 HD (D): FiteTV-MMA Combat Night Broward, February 12 - Sat,12 Feb 17:15 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549856
+#EXTINF:0,Fite TV 11 SD (D): FiteTV-MMA Combat Night Broward, February 12 - Sat,12 Feb 17:15 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549857
+#EXTINF:0,Fite TV 12 HD (D): FiteTV-MMA Firepower Championship 4: Sudden Impact - Sat,12 Feb 18:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549858
+#EXTINF:0,Fite TV 12 SD (D): FiteTV-MMA Firepower Championship 4: Sudden Impact - Sat,12 Feb 18:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549859
+#EXTINF:0,Fite TV 13 HD (D): FiteTV-Pro Wrestling MAW: Heart of a Warrior 2 - Sat,12 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549860
+#EXTINF:0,Fite TV 13 SD (D): FiteTV-Pro Wrestling MAW: Heart of a Warrior 2 - Sat,12 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549861
+#EXTINF:0,Fite TV 14 HD (D): FiteTV-Pro Wrestling Warrior Wrestling 19 - Sat,12 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549862
+#EXTINF:0,Fite TV 14 SD (D): FiteTV-Pro Wrestling Warrior Wrestling 19 - Sat,12 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549863
+#EXTINF:0,Fite TV 15 HD (D): FiteTV-MMA River City Fight Night: Walker vs Hamm - Sat,12 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549864
+#EXTINF:0,Fite TV 15 SD (D): FiteTV-MMA River City Fight Night: Walker vs Hamm - Sat,12 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549865
+#EXTINF:0,Fite TV 16 HD (D): FiteTV-Boxing Hollie Towl vs Nadia Flalhi - Sun,13 Feb 08:30 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549866
+#EXTINF:0,Fite TV 16 SD (D): FiteTV-Boxing Hollie Towl vs Nadia Flalhi - Sun,13 Feb 08:30 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549867
+#EXTINF:0,Fite TV 17 HD (D): FiteTV-Pro Wrestling Championship Wrestling From Hollywood: Episode 540 - Sun,13 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549868
+#EXTINF:0,Fite TV 17 SD (D): FiteTV-Pro Wrestling Championship Wrestling From Hollywood: Episode 540 - Sun,13 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549869
+#EXTINF:0,Fite TV 18 HD (D): FiteTV-MMA The Jon Fitch Knows Nothing Podcast, February 13th - Sun,13 Feb 22:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549870
+#EXTINF:0,Fite TV 18 SD (D): FiteTV-MMA The Jon Fitch Knows Nothing Podcast, February 13th - Sun,13 Feb 22:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549871
+#EXTINF:0,Fite TV 19 HD (D): FiteTV-Boxing Verzuz: Valentines Day Special - Tue,15 Feb 20:30 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549872
+#EXTINF:0,Fite TV 19 SD (D)
+http://restream-live.realiptv.to:8080/waybetter3/live3/549873
+#EXTINF:0,Fite TV 2 HD (D): FiteTV-Pro Wrestling AEW: Dynamite, Episode 06-22 - Wed,09 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549838
+#EXTINF:0,Fite TV 2 SD (D): FiteTV-Pro Wrestling AEW: Dynamite, Episode 06-22 - Wed,09 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549839
+#EXTINF:0,Fite TV 20 HD (D)
+http://restream-live.realiptv.to:8080/waybetter3/live3/549874
+#EXTINF:0,Fite TV 20 SD (D)
+http://restream-live.realiptv.to:8080/waybetter3/live3/549875
+#EXTINF:0,Fite TV 24/7 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/549833
+#EXTINF:0,Fite TV 24/7 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/549834
+#EXTINF:0,Fite TV 24/7 SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/549832
+#EXTINF:0,Fite TV 24/7 SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/549835
+#EXTINF:0,Fite TV 3 HD (D): FiteTV-Boxing Big Game Party with Marshall Faulk and Torry Holt - Wed,09 Feb 22:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549840
+#EXTINF:0,Fite TV 3 SD (D): FiteTV-Boxing Big Game Party with Marshall Faulk and Torry Holt - Wed,09 Feb 22:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549841
+#EXTINF:0,Fite TV 4 HD (D): FiteTV-Pro Wrestling Ohio Valley Wrestling #1173 - Thu,10 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549842
+#EXTINF:0,Fite TV 4 SD (D): FiteTV-Pro Wrestling Ohio Valley Wrestling #1173 - Thu,10 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549843
+#EXTINF:0,Fite TV 5 HD (D): FiteTV-Pro Wrestling ARW: Extreme Takeover Thursday, Episode 68 - Thu,10 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549844
+#EXTINF:0,Fite TV 5 SD (D): FiteTV-Pro Wrestling ARW: Extreme Takeover Thursday, Episode 68 - Thu,10 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549845
+#EXTINF:0,Fite TV 6 HD (D): FiteTV-Kickboxing VAMAA Fight Night: No Limits - Fri,11 Feb 03:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549846
+#EXTINF:0,Fite TV 6 SD (D): FiteTV-Kickboxing VAMAA Fight Night: No Limits - Fri,11 Feb 03:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549847
+#EXTINF:0,Fite TV 7 HD (D): FiteTV-Pro Wrestling Talking With Friends, Episode 7 - Fri,11 Feb 18:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549848
+#EXTINF:0,Fite TV 7 SD (D): FiteTV-Pro Wrestling Talking With Friends, Episode 7 - Fri,11 Feb 18:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549849
+#EXTINF:0,Fite TV 8 HD (D): FiteTV-Pro Wrestling MLW Fusion: Alpha, Episode 19 - Fri,11 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549850
+#EXTINF:0,Fite TV 8 SD (D): FiteTV-Pro Wrestling MLW Fusion: Alpha, Episode 19 - Fri,11 Feb 19:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549851
+#EXTINF:0,Fite TV 9 HD (D): FiteTV-Boxing Mundo Boxing Promotions: Boxing in the 305 - Fri,11 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549852
+#EXTINF:0,Fite TV 9 SD (D): FiteTV-Boxing Mundo Boxing Promotions: Boxing in the 305 - Fri,11 Feb 20:00 EST
+http://restream-live.realiptv.to:8080/waybetter3/live3/549853
+#EXTINF:0,Latin BO Tigo Sports 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/52199
+#EXTINF:0,Latin BO Tigo Sports 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/52202
+#EXTINF:0,Latin BO Tigo Sports 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/52200
+#EXTINF:0,Latin BO Tigo Sports 2 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/52203
+#EXTINF:0,Latin BO Tigo Sports 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/52201
+#EXTINF:0,Latin BO Tigo Sports 3 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/52204
+#EXTINF:0,Latin CO DIRECTV SPORTS 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/52186
+#EXTINF:0,Latin CO DIRECTV SPORTS 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/52187
+#EXTINF:0,Latin CO DIRECTV SPORTS PLUS
+http://restream-live.realiptv.to:8080/waybetter3/live3/52188
+#EXTINF:0,Latin CO ESPN
+http://restream-live.realiptv.to:8080/waybetter3/live3/558864
+#EXTINF:0,Latin CO ESPN 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/558865
+#EXTINF:0,Latin CO ESPN 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/558866
+#EXTINF:0,Latin CO ESPN EXTRA
+http://restream-live.realiptv.to:8080/waybetter3/live3/558867
+#EXTINF:0,Latin CO FOX SPORTS
+http://restream-live.realiptv.to:8080/waybetter3/live3/558868
+#EXTINF:0,Latin CO FOX SPORTS 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/558869
+#EXTINF:0,Latin CO FOX SPORTS 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/558870
+#EXTINF:0,Latin CO Winsports 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/52183
+#EXTINF:0,Latin CO Winsports 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/52184
+#EXTINF:0,Latin CO WinSports 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/52185
+#EXTINF:0,Latin CO WINSPORTS+
+http://restream-live.realiptv.to:8080/waybetter3/live3/558894
+#EXTINF:0,MX ESPN
+http://restream-live.realiptv.to:8080/waybetter3/live3/1635
+#EXTINF:0,MX Espn 2 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/4221
+#EXTINF:0,MX ESPN 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/1637
+#EXTINF:0,MX Espn 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/4222
+#EXTINF:0,MX Espn HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/4223
+#EXTINF:0,MX Espn Plus HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/4224
+#EXTINF:0,MX Fox Sports 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/1649
+#EXTINF:0,MX Fox Sports 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/4243
+#EXTINF:0,MX Fox Sports 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/4301
+#EXTINF:0,MX Fox Sports 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/4241
+#EXTINF:0,MX Fox Sports 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/1650
+#EXTINF:0,MX Fox Sports 3 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/4242
+#EXTINF:0,NCAAB 01  Holy Cross vs. Colgate  18:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487557
+#EXTINF:0,NCAAB 02  Toccoa Falls vs. Charleston Southern  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487558
+#EXTINF:0,NCAAB 03  Eastern Illinois vs. Tennessee Tech  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487559
+#EXTINF:0,NCAAB 04  Temple vs. South Florida  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487560
+#EXTINF:0,NCAAB 05  UNC Greensboro vs. Western Carolina  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487561
+#EXTINF:0,NCAAB 06  George Mason vs. Richmond  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487562
+#EXTINF:0,NCAAB 07  Presbyterian vs Hampton  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487563
+#EXTINF:0,NCAAB 08  Chattanooga vs. Mercer  19:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487564
+#EXTINF:0,NCAAB 09  Austin Peay vs Belmont  19:30et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487565
+#EXTINF:0,NCAAB 10  Montana State vs. Idaho State  20:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487566
+#EXTINF:0,NCAAB 11  South Dakota vs. North Dakota State  20:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487567
+#EXTINF:0,NCAAB 12  UTEP vs. North Texas  20:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487568
+#EXTINF:0,NCAAB 13  Southern Utah vs. Montana  21:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487569
+#EXTINF:0,NCAAB 14  Southeast Missouri State vs. SIU Edwardsville  21:00et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487570
+#EXTINF:0,NCAAB 15  Northern Arizona vs. Northern Colorado  21:30et
+http://restream-live.realiptv.to:8080/waybetter3/live3/487571
+#EXTINF:0,NCAAB 16 UNC-Wilm. vs Hofstra @5:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487572
+#EXTINF:0,NCAAB 17 Temple vs South Florida @7:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487573
+#EXTINF:0,NCAAB 18 Virginia vs Duke @7:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487574
+#EXTINF:0,NCAAB 19 Furman vs ETSU @7:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487575
+#EXTINF:0,NCAAB 20 Montana St. vs Idaho St. @8:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487576
+#EXTINF:0,NCAAB 21 Kansas vs Texas @9:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487577
+#EXTINF:0,NCAAB 22 Alabama A&M vs Grambling @9:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487578
+#EXTINF:0,NCAAB 23 Arizona vs Arizona St. @9:00 pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/487579
+#EXTINF:0,NCAAB 24
+http://restream-live.realiptv.to:8080/waybetter3/live3/487580
+#EXTINF:0,NCAAB 25
+http://restream-live.realiptv.to:8080/waybetter3/live3/487581
+#EXTINF:0,NCAAB 26
+http://restream-live.realiptv.to:8080/waybetter3/live3/487582
+#EXTINF:0,NCAAB 27
+http://restream-live.realiptv.to:8080/waybetter3/live3/487583
+#EXTINF:0,NCAAB 28
+http://restream-live.realiptv.to:8080/waybetter3/live3/487584
+#EXTINF:0,NCAAB 29
+http://restream-live.realiptv.to:8080/waybetter3/live3/487585
+#EXTINF:0,NCAAB 30
+http://restream-live.realiptv.to:8080/waybetter3/live3/487586
+#EXTINF:0,NCAAB 31
+http://restream-live.realiptv.to:8080/waybetter3/live3/487587
+#EXTINF:0,NCAAB 32
+http://restream-live.realiptv.to:8080/waybetter3/live3/487588
+#EXTINF:0,NCAAB 33
+http://restream-live.realiptv.to:8080/waybetter3/live3/487589
+#EXTINF:0,NCAAB 34
+http://restream-live.realiptv.to:8080/waybetter3/live3/487590
+#EXTINF:0,NCAAB 35
+http://restream-live.realiptv.to:8080/waybetter3/live3/487591
+#EXTINF:0,NCAAB 36
+http://restream-live.realiptv.to:8080/waybetter3/live3/487592
+#EXTINF:0,NCAAB 37
+http://restream-live.realiptv.to:8080/waybetter3/live3/487593
+#EXTINF:0,NCAAB 38
+http://restream-live.realiptv.to:8080/waybetter3/live3/487594
+#EXTINF:0,NCAAB 39
+http://restream-live.realiptv.to:8080/waybetter3/live3/487595
+#EXTINF:0,NCAAB 40
+http://restream-live.realiptv.to:8080/waybetter3/live3/487596
+#EXTINF:0,NCAAB 41
+http://restream-live.realiptv.to:8080/waybetter3/live3/487597
+#EXTINF:0,NCAAB 42
+http://restream-live.realiptv.to:8080/waybetter3/live3/487598
+#EXTINF:0,NCAAB 43
+http://restream-live.realiptv.to:8080/waybetter3/live3/487599
+#EXTINF:0,NCAAB 44
+http://restream-live.realiptv.to:8080/waybetter3/live3/487600
+#EXTINF:0,NCAAB 45
+http://restream-live.realiptv.to:8080/waybetter3/live3/487601
+#EXTINF:0,NCAAB 46
+http://restream-live.realiptv.to:8080/waybetter3/live3/487602
+#EXTINF:0,NCAAB 47
+http://restream-live.realiptv.to:8080/waybetter3/live3/487603
+#EXTINF:0,NCAAB 48
+http://restream-live.realiptv.to:8080/waybetter3/live3/487604
+#EXTINF:0,NCAAB 49
+http://restream-live.realiptv.to:8080/waybetter3/live3/487605
+#EXTINF:0,NCAAB 50
+http://restream-live.realiptv.to:8080/waybetter3/live3/487606
+#EXTINF:0,NCAAB 51
+http://restream-live.realiptv.to:8080/waybetter3/live3/487607
+#EXTINF:0,NCAAB 52
+http://restream-live.realiptv.to:8080/waybetter3/live3/487608
+#EXTINF:0,NCAAB 53
+http://restream-live.realiptv.to:8080/waybetter3/live3/487609
+#EXTINF:0,NCAAB 54
+http://restream-live.realiptv.to:8080/waybetter3/live3/487610
+#EXTINF:0,NCAAB 55
+http://restream-live.realiptv.to:8080/waybetter3/live3/487611
+#EXTINF:0,NCAAB 56
+http://restream-live.realiptv.to:8080/waybetter3/live3/487612
+#EXTINF:0,NCAAB 57
+http://restream-live.realiptv.to:8080/waybetter3/live3/487613
+#EXTINF:0,NCAAB 58
+http://restream-live.realiptv.to:8080/waybetter3/live3/487614
+#EXTINF:0,NCAAB 59
+http://restream-live.realiptv.to:8080/waybetter3/live3/487615
+#EXTINF:0,NCAAB 60
+http://restream-live.realiptv.to:8080/waybetter3/live3/487616
+#EXTINF:0,NCAAB 61
+http://restream-live.realiptv.to:8080/waybetter3/live3/487617
+#EXTINF:0,NCAAB 62
+http://restream-live.realiptv.to:8080/waybetter3/live3/487618
+#EXTINF:0,NCAAB 63
+http://restream-live.realiptv.to:8080/waybetter3/live3/487619
+#EXTINF:0,NCAAB 64
+http://restream-live.realiptv.to:8080/waybetter3/live3/487620
+#EXTINF:0,NCAAB 65
+http://restream-live.realiptv.to:8080/waybetter3/live3/487621
+#EXTINF:0,NCAAB 66
+http://restream-live.realiptv.to:8080/waybetter3/live3/487622
+#EXTINF:0,NCAAB 67
+http://restream-live.realiptv.to:8080/waybetter3/live3/487623
+#EXTINF:0,NCAAB 68
+http://restream-live.realiptv.to:8080/waybetter3/live3/487624
+#EXTINF:0,NCAAB 69
+http://restream-live.realiptv.to:8080/waybetter3/live3/487625
+#EXTINF:0,NCAAB 70
+http://restream-live.realiptv.to:8080/waybetter3/live3/487626
+#EXTINF:0,NCAAB 71
+http://restream-live.realiptv.to:8080/waybetter3/live3/487627
+#EXTINF:0,NCAAB 72
+http://restream-live.realiptv.to:8080/waybetter3/live3/487628
+#EXTINF:0,NCAAB 73
+http://restream-live.realiptv.to:8080/waybetter3/live3/487629
+#EXTINF:0,NCAAB 74
+http://restream-live.realiptv.to:8080/waybetter3/live3/487630
+#EXTINF:0,NCAAB 75
+http://restream-live.realiptv.to:8080/waybetter3/live3/487631
+#EXTINF:0,NCAAB 76
+http://restream-live.realiptv.to:8080/waybetter3/live3/487632
+#EXTINF:0,NCAAB 77
+http://restream-live.realiptv.to:8080/waybetter3/live3/487633
+#EXTINF:0,NCAAB 78
+http://restream-live.realiptv.to:8080/waybetter3/live3/487634
+#EXTINF:0,NCAAB 79
+http://restream-live.realiptv.to:8080/waybetter3/live3/487635
+#EXTINF:0,NCAAB 80
+http://restream-live.realiptv.to:8080/waybetter3/live3/487636
+#EXTINF:0,NCAAW 01: Canisius vs. Quinnipiac (W Basketball)  13:00et-18:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510969
+#EXTINF:0,NCAAW 02: Abilene Christian vs. Chicago State (W Basketball)  14:00et-19:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510970
+#EXTINF:0,NCAAW 03: North Texas vs. UAB (W Basketball)  15:00et-20:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510971
+#EXTINF:0,NCAAW 04: Womens College Basketball (W Basketball)  18:00et-23:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510972
+#EXTINF:0,NCAAW 05: Wright State vs. Cleveland State (W Basketball)  18:00et-23:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510973
+#EXTINF:0,NCAAW 06: UMass Lowell vs. Hartford (W Basketball)  18:00et-23:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510974
+#EXTINF:0,NCAAW 07: Radford vs. High Point (W Basketball)  18:00et-23:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510975
+#EXTINF:0,NCAAW 08: Eastern Illinois vs. SIU Edwardsville (W Basketball)  18:30et-23:30uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510976
+#EXTINF:0,NCAAW 09: UTSA vs. Southern Miss (W Basketball)  19:00et-00:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510977
+#EXTINF:0,NCAAW 10: UNC Asheville vs. Gardner-Webb (W Basketball)  19:00et-00:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510978
+#EXTINF:0,NCAAW 11: East Tennessee State vs. Samford (W Basketball)  19:00et-00:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510979
+#EXTINF:0,NCAAW 12: Niagara vs. Siena (W Basketball)  19:00et-00:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510980
+#EXTINF:0,NCAAW 13: Belmont vs. UT Martin (W Basketball)  19:00et-00:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510981
+#EXTINF:0,NCAAW 14: Portland State vs Northern Colorado (W Basketball)  19:30et-00:30uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510982
+#EXTINF:0,NCAAW 15: Milwaukee vs. Green Bay (W Basketball)  20:00et-01:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510983
+#EXTINF:0,NCAAW 16: Montana State vs. Idaho (W Basketball)  20:00et-01:00uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510984
+#EXTINF:0,NCAAW 17: Montana vs. Southern Utah (W Basketball)  20:30et-01:30uk
+http://restream-live.realiptv.to:8080/waybetter3/live3/510985
+#EXTINF:0,NCAAW 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510986
+#EXTINF:0,NCAAW 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510987
+#EXTINF:0,NCAAW 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510988
+#EXTINF:0,NCAAW 21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510989
+#EXTINF:0,NCAAW 22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510990
+#EXTINF:0,NCAAW 23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510991
+#EXTINF:0,NCAAW 24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510992
+#EXTINF:0,NCAAW 25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510993
+#EXTINF:0,NCAAW 26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510994
+#EXTINF:0,NCAAW 27: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510995
+#EXTINF:0,NCAAW 28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510996
+#EXTINF:0,NCAAW 29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510997
+#EXTINF:0,NCAAW 30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510998
+#EXTINF:0,NCAAW 31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/510999
+#EXTINF:0,NCAAW 32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511000
+#EXTINF:0,NCAAW 33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511001
+#EXTINF:0,NCAAW 34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511002
+#EXTINF:0,NCAAW 35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511003
+#EXTINF:0,NCAAW 36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511004
+#EXTINF:0,NCAAW 37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511005
+#EXTINF:0,NCAAW 38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511006
+#EXTINF:0,NCAAW 39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511007
+#EXTINF:0,NCAAW 40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511008
+#EXTINF:0,NCAAW 41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511009
+#EXTINF:0,NCAAW 42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511010
+#EXTINF:0,NCAAW 43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511011
+#EXTINF:0,NCAAW 44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511012
+#EXTINF:0,NCAAW 45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511013
+#EXTINF:0,NCAAW 46: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511014
+#EXTINF:0,NCAAW 47: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511015
+#EXTINF:0,NCAAW 48: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511016
+#EXTINF:0,NCAAW 49: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511017
+#EXTINF:0,NCAAW 50: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511018
+#EXTINF:0,NCAAW 51: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511019
+#EXTINF:0,NCAAW 52: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511020
+#EXTINF:0,NCAAW 53: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511021
+#EXTINF:0,NCAAW 54: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511022
+#EXTINF:0,NCAAW 55: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511023
+#EXTINF:0,NCAAW 56: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511024
+#EXTINF:0,NCAAW 57: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511025
+#EXTINF:0,NCAAW 58: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511026
+#EXTINF:0,NCAAW 59: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511027
+#EXTINF:0,NCAAW 60: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511028
+#EXTINF:0,PT ELEVEN SPORTS 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/926
+#EXTINF:0,PT ELEVEN SPORTS 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/925
+#EXTINF:0,PT ELEVEN SPORTS 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/924
+#EXTINF:0,PT ELEVEN SPORTS 2 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/923
+#EXTINF:0,PT ELEVEN SPORTS 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/922
+#EXTINF:0,PT ELEVEN SPORTS 3 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/921
+#EXTINF:0,PT ELEVEN SPORTS 4
+http://restream-live.realiptv.to:8080/waybetter3/live3/920
+#EXTINF:0,PT ELEVEN SPORTS 4 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/919
+#EXTINF:0,PT ELEVEN SPORTS 5
+http://restream-live.realiptv.to:8080/waybetter3/live3/918
+#EXTINF:0,PT ELEVEN SPORTS 5 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/917
+#EXTINF:0,PT ELEVEN SPORTS 6
+http://restream-live.realiptv.to:8080/waybetter3/live3/916
+#EXTINF:0,PT ELEVEN SPORTS 6 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/915
+#EXTINF:0,PT EURONEWS
+http://restream-live.realiptv.to:8080/waybetter3/live3/913
+#EXTINF:0,PT EUROSPORT 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/911
+#EXTINF:0,PT EUROSPORT 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/910
+#EXTINF:0,PT bascket TV HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/878
+#EXTINF:0,PT SPORT TV 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/849
+#EXTINF:0,PT SPORT TV 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/848
+#EXTINF:0,PT SPORT TV 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/847
+#EXTINF:0,PT SPORT TV 2 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/846
+#EXTINF:0,PT SPORT TV 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/845
+#EXTINF:0,PT SPORT TV 3 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/844
+#EXTINF:0,PT SPORT TV 4
+http://restream-live.realiptv.to:8080/waybetter3/live3/843
+#EXTINF:0,PT SPORT TV 4 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/842
+#EXTINF:0,PT SPORT TV 5
+http://restream-live.realiptv.to:8080/waybetter3/live3/840
+#EXTINF:0,PT SPORT TV 5 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/839
+#EXTINF:0,PT Sport TV+
+http://restream-live.realiptv.to:8080/waybetter3/live3/51139
+#EXTINF:0,PT SPORTING TV HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/838
+#EXTINF:0,Soccer Serie A 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511069
+#EXTINF:0,Soccer Serie A 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511070
+#EXTINF:0,Soccer Serie A 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511071
+#EXTINF:0,Soccer Serie A 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511072
+#EXTINF:0,Soccer Serie A 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511073
+#EXTINF:0,Soccer Serie A 06: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511074
+#EXTINF:0,Soccer Serie A 07: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511075
+#EXTINF:0,Soccer Serie A 08: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511076
+#EXTINF:0,Soccer Serie A 09: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511077
+#EXTINF:0,Soccer Serie A 10: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511078
+#EXTINF:0,Soccer Serie A 11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511079
+#EXTINF:0,Soccer Serie A 12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511080
+#EXTINF:0,Soccer Serie A 13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511081
+#EXTINF:0,Soccer Serie A 14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511082
+#EXTINF:0,Soccer Serie A 15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511083
+#EXTINF:0,Soccer Serie A 16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511084
+#EXTINF:0,Soccer Serie A 17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511085
+#EXTINF:0,Soccer Serie A 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511086
+#EXTINF:0,Soccer Serie A 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511087
+#EXTINF:0,Soccer Serie A 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/511088
+#EXTINF:0,Softball 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549876
+#EXTINF:0,Softball 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549877
+#EXTINF:0,Softball 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549878
+#EXTINF:0,Softball 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549879
+#EXTINF:0,Softball 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549880
+#EXTINF:0,Softball 06: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549881
+#EXTINF:0,Softball 07: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549882
+#EXTINF:0,Softball 08: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549883
+#EXTINF:0,Softball 09: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549884
+#EXTINF:0,Softball 10: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549885
+#EXTINF:0,Softball 11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549886
+#EXTINF:0,Softball 12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549887
+#EXTINF:0,Softball 13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549888
+#EXTINF:0,Softball 14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549889
+#EXTINF:0,Softball 15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549890
+#EXTINF:0,Softball 16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549891
+#EXTINF:0,Softball 17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549892
+#EXTINF:0,Softball 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549893
+#EXTINF:0,Softball 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549894
+#EXTINF:0,Softball 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549895
+#EXTINF:0,Softball 21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549896
+#EXTINF:0,Softball 22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549897
+#EXTINF:0,Softball 23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549898
+#EXTINF:0,Softball 24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549899
+#EXTINF:0,Softball 25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549900
+#EXTINF:0,Softball 26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549901
+#EXTINF:0,Softball 27: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549902
+#EXTINF:0,Softball 28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549903
+#EXTINF:0,Softball 29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549904
+#EXTINF:0,Softball 30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549905
+#EXTINF:0,Softball 31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549906
+#EXTINF:0,Softball 32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549907
+#EXTINF:0,Softball 33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549908
+#EXTINF:0,Softball 34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549909
+#EXTINF:0,Softball 35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549910
+#EXTINF:0,Softball 36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549911
+#EXTINF:0,Softball 37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549912
+#EXTINF:0,Softball 38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549913
+#EXTINF:0,Softball 39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549914
+#EXTINF:0,Softball 40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549915
+#EXTINF:0,Softball 41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549916
+#EXTINF:0,Softball 42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549917
+#EXTINF:0,Softball 43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549918
+#EXTINF:0,Softball 44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549919
+#EXTINF:0,Softball 45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549920
+#EXTINF:0,Softball 46: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549921
+#EXTINF:0,Softball 47: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549922
+#EXTINF:0,Softball 48: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549923
+#EXTINF:0,Softball 49: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549924
+#EXTINF:0,Softball 50: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/549925
+#EXTINF:0,South Africa ESPN
+http://restream-live.realiptv.to:8080/waybetter3/live3/521726
+#EXTINF:0,South Africa ESPN 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/521729
+#EXTINF:0,South Africa SuperSport Action
+http://restream-live.realiptv.to:8080/waybetter3/live3/59007
+#EXTINF:0,South Africa Supersport Blitz
+http://restream-live.realiptv.to:8080/waybetter3/live3/59010
+#EXTINF:0,South Africa SuperSport Cricket
+http://restream-live.realiptv.to:8080/waybetter3/live3/59009
+#EXTINF:0,South Africa SuperSport Football
+http://restream-live.realiptv.to:8080/waybetter3/live3/59002
+#EXTINF:0,South Africa SuperSport Golf
+http://restream-live.realiptv.to:8080/waybetter3/live3/470016
+#EXTINF:0,South Africa Supersport Grandstand
+http://restream-live.realiptv.to:8080/waybetter3/live3/58998
+#EXTINF:0,South Africa SuperSport La Liga
+http://restream-live.realiptv.to:8080/waybetter3/live3/59001
+#EXTINF:0,South Africa SuperSport Motorsport
+http://restream-live.realiptv.to:8080/waybetter3/live3/470018
+#EXTINF:0,South Africa SuperSport MáXimo
+http://restream-live.realiptv.to:8080/waybetter3/live3/327448
+#EXTINF:0,South Africa Supersport Play 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/470017
+#EXTINF:0,South Africa SuperSport Premier League
+http://restream-live.realiptv.to:8080/waybetter3/live3/59000
+#EXTINF:0,South Africa SuperSport PSL
+http://restream-live.realiptv.to:8080/waybetter3/live3/58999
+#EXTINF:0,South Africa SuperSport Rugby
+http://restream-live.realiptv.to:8080/waybetter3/live3/59008
+#EXTINF:0,South Africa Supersport Tennis
+http://restream-live.realiptv.to:8080/waybetter3/live3/470019
+#EXTINF:0,South Africa SuperSport Variety 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/59003
+#EXTINF:0,South Africa SuperSport Variety 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/59004
+#EXTINF:0,South Africa SuperSport Variety 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/59005
+#EXTINF:0,South Africa SuperSport Variety 4
+http://restream-live.realiptv.to:8080/waybetter3/live3/59006
+#EXTINF:0,UK Box Nation
+http://restream-live.realiptv.to:8080/waybetter3/live3/5394
+#EXTINF:0,UK Box Nation HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2338
+#EXTINF:0,UK BT Sports 1 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2337
+#EXTINF:0,UK BT Sports 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2327
+#EXTINF:0,UK BT Sports 2 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2336
+#EXTINF:0,UK BT Sports 2 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2326
+#EXTINF:0,UK BT Sports 3 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2335
+#EXTINF:0,UK BT Sports 3 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2325
+#EXTINF:0,UK BT Sports ESPN HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2334
+#EXTINF:0,UK BT Sports Extra 1 (live match only)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2332
+#EXTINF:0,UK BT Sports Extra 2 (live match only)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2331
+#EXTINF:0,UK BT Sports Extra 3 (live match only)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2330
+#EXTINF:0,UK BT Sports Extra 4 (live match only)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2329
+#EXTINF:0,UK BT Sports Extra 4 (live match only)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2333
+#EXTINF:0,UK Chelsea TV HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2312
+#EXTINF:0,UK Eir Sport 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/2289
+#EXTINF:0,UK Eir Sport 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/2287
+#EXTINF:0,UK EuroSport 1 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2286
+#EXTINF:0,UK EuroSport 2 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2285
+#EXTINF:0,UK PREMIER  SPORTS 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/89089
+#EXTINF:0,UK PREMIER SPORTS 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/89090
+#EXTINF:0,UK earth Sport Racing HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2226
+#EXTINF:0,UK earth Sports Action
+http://restream-live.realiptv.to:8080/waybetter3/live3/2195
+#EXTINF:0,UK earth Sports Action HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2194
+#EXTINF:0,UK earth Sports Arena HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2193
+#EXTINF:0,UK earth Sports Cricket
+http://restream-live.realiptv.to:8080/waybetter3/live3/2192
+#EXTINF:0,UK earth Sports Cricket HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2191
+#EXTINF:0,UK earth Sports F1
+http://restream-live.realiptv.to:8080/waybetter3/live3/2190
+#EXTINF:0,UK earth Sports F1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2189
+#EXTINF:0,UK earth Sports Football
+http://restream-live.realiptv.to:8080/waybetter3/live3/30822
+#EXTINF:0,UK earth Sports Football HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2188
+#EXTINF:0,UK earth Sports Golf
+http://restream-live.realiptv.to:8080/waybetter3/live3/2187
+#EXTINF:0,UK earth Sports Golf HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2186
+#EXTINF:0,UK earth Sports Main Events
+http://restream-live.realiptv.to:8080/waybetter3/live3/2185
+#EXTINF:0,UK earth Sports Main Events HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2184
+#EXTINF:0,UK earth Sports MIX
+http://restream-live.realiptv.to:8080/waybetter3/live3/2180
+#EXTINF:0,UK earth Sports News
+http://restream-live.realiptv.to:8080/waybetter3/live3/2183
+#EXTINF:0,UK earth Sports News HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2179
+#EXTINF:0,UK earth Sports Premier League
+http://restream-live.realiptv.to:8080/waybetter3/live3/2182
+#EXTINF:0,UK earth Sports Premier League HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/2181
+#EXTINF:0,UK earth Sports Racing
+http://restream-live.realiptv.to:8080/waybetter3/live3/102182
+#EXTINF:0,USA AT&T SportsNet Pittsburgh
+http://restream-live.realiptv.to:8080/waybetter3/live3/149311
+#EXTINF:0,USA AT&T SportsNet Pittsburgh SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/401164
+#EXTINF:0,USA AT&T SportsNet Rocky Mountain
+http://restream-live.realiptv.to:8080/waybetter3/live3/149312
+#EXTINF:0,USA AT&T Sportsnet Rocky Mountain Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/552924
+#EXTINF:0,USA AT&T SportsNet Rocky Mountain West
+http://restream-live.realiptv.to:8080/waybetter3/live3/552923
+#EXTINF:0,USA AT&T SportsNet Southwest
+http://restream-live.realiptv.to:8080/waybetter3/live3/4429
+#EXTINF:0,USA Bally Sports Arizona LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3786
+#EXTINF:0,USA Bally SPORTS CAROLINA
+http://restream-live.realiptv.to:8080/waybetter3/live3/92839
+#EXTINF:0,USA Bally Sports Cincinnati
+http://restream-live.realiptv.to:8080/waybetter3/live3/38213
+#EXTINF:0,USA Bally Sports Florida (North)
+http://restream-live.realiptv.to:8080/waybetter3/live3/3785
+#EXTINF:0,USA Bally Sports Florida (South)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2527
+#EXTINF:0,USA Bally Sports Indiana
+http://restream-live.realiptv.to:8080/waybetter3/live3/214231
+#EXTINF:0,USA Bally Sports Kansas City
+http://restream-live.realiptv.to:8080/waybetter3/live3/528449
+#EXTINF:0,USA Bally Sports Midwest
+http://restream-live.realiptv.to:8080/waybetter3/live3/3784
+#EXTINF:0,USA Bally Sports Midwest Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/522903
+#EXTINF:0,USA Bally Sports New Orleans
+http://restream-live.realiptv.to:8080/waybetter3/live3/56581
+#EXTINF:0,USA Bally Sports North
+http://restream-live.realiptv.to:8080/waybetter3/live3/2519
+#EXTINF:0,USA Bally Sports North LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3783
+#EXTINF:0,USA Bally Sports Oklahoma LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3795
+#EXTINF:0,USA Bally Sports San Diego
+http://restream-live.realiptv.to:8080/waybetter3/live3/2514
+#EXTINF:0,USA Bally Sports South
+http://restream-live.realiptv.to:8080/waybetter3/live3/2513
+#EXTINF:0,USA Bally Sports South LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3789
+#EXTINF:0,USA Bally Sports Southeast (Georgia)
+http://restream-live.realiptv.to:8080/waybetter3/live3/3790
+#EXTINF:0,USA Bally Sports Southeast (Gerogia)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2512
+#EXTINF:0,USA Bally Sports Southeast (North Carolina)
+http://restream-live.realiptv.to:8080/waybetter3/live3/501911
+#EXTINF:0,USA Bally Sports Southwest LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3791
+#EXTINF:0,USA Bally Sports West
+http://restream-live.realiptv.to:8080/waybetter3/live3/2507
+#EXTINF:0,USA Bally Sports West LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3788
+#EXTINF:0,USA Bally Sports Wisconsin
+http://restream-live.realiptv.to:8080/waybetter3/live3/3787
+#EXTINF:0,USA BallySports Oklahoma
+http://restream-live.realiptv.to:8080/waybetter3/live3/2516
+#EXTINF:0,USA NIeb La Liga SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97524
+#EXTINF:0,USA NIeb Sports 4
+http://restream-live.realiptv.to:8080/waybetter3/live3/5313
+#EXTINF:0,USA NIeb Sports 5
+http://restream-live.realiptv.to:8080/waybetter3/live3/5312
+#EXTINF:0,USA NIeb Sports 6
+http://restream-live.realiptv.to:8080/waybetter3/live3/5311
+#EXTINF:0,USA NIeb Sports 7
+http://restream-live.realiptv.to:8080/waybetter3/live3/5310
+#EXTINF:0,USA NIeb Sports 8
+http://restream-live.realiptv.to:8080/waybetter3/live3/5309
+#EXTINF:0,USA NIeb Sports en Espanol UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3613
+#EXTINF:0,USA NIeb SPORTS enEspanol LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3707
+#EXTINF:0,USA NIeb Sports La Liga
+http://restream-live.realiptv.to:8080/waybetter3/live3/5314
+#EXTINF:0,USA NIeb SPORTS La Liga
+http://restream-live.realiptv.to:8080/waybetter3/live3/90427
+#EXTINF:0,USA NIeb Sports LaLiga
+http://restream-live.realiptv.to:8080/waybetter3/live3/5308
+#EXTINF:0,USA NIeb Sports LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3706
+#EXTINF:0,USA NIeb Sports N Espanol SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21586
+#EXTINF:0,USA NIeb Sports UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3612
+#EXTINF:0,USA NIeb Sports USA SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21585
+#EXTINF:0,USA NIeb Sports Xtra
+http://restream-live.realiptv.to:8080/waybetter3/live3/434356
+#EXTINF:0,USA BEK Sports News
+http://restream-live.realiptv.to:8080/waybetter3/live3/573472
+#EXTINF:0,USA Eleven Sports
+http://restream-live.realiptv.to:8080/waybetter3/live3/3810
+#EXTINF:0,USA ELEVEN SPORTS SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97532
+#EXTINF:0,USA ESPN 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/2581
+#EXTINF:0,USA ESPN 2 LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3726
+#EXTINF:0,USA ESPN 2 SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21590
+#EXTINF:0,USA ESPN 2 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3637
+#EXTINF:0,USA ESPN 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/59892
+#EXTINF:0,USA ESPN College Extra 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/55463
+#EXTINF:0,USA ESPN College Extra 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/55464
+#EXTINF:0,USA ESPN College Extra 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/55465
+#EXTINF:0,USA ESPN College Extra 4
+http://restream-live.realiptv.to:8080/waybetter3/live3/55466
+#EXTINF:0,USA ESPN College Extra 5
+http://restream-live.realiptv.to:8080/waybetter3/live3/55467
+#EXTINF:0,USA ESPN College Extra 6
+http://restream-live.realiptv.to:8080/waybetter3/live3/55468
+#EXTINF:0,USA ESPN College Extra 7
+http://restream-live.realiptv.to:8080/waybetter3/live3/55469
+#EXTINF:0,USA ESPN Deportes
+http://restream-live.realiptv.to:8080/waybetter3/live3/2578
+#EXTINF:0,USA ESPN Deportes
+http://restream-live.realiptv.to:8080/waybetter3/live3/3639
+#EXTINF:0,USA ESPN Deportes LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3811
+#EXTINF:0,USA ESPN Deportes SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21591
+#EXTINF:0,USA ESPN LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3725
+#EXTINF:0,USA ESPN Longhorn Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/2482
+#EXTINF:0,USA ESPN News
+http://restream-live.realiptv.to:8080/waybetter3/live3/2577
+#EXTINF:0,USA ESPN News LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3728
+#EXTINF:0,USA ESPN News UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3640
+#EXTINF:0,USA ESPN SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21589
+#EXTINF:0,USA ESPN SEC Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/3864
+#EXTINF:0,USA ESPN U
+http://restream-live.realiptv.to:8080/waybetter3/live3/2576
+#EXTINF:0,USA ESPN U LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3727
+#EXTINF:0,USA ESPN U UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3638
+#EXTINF:0,USA ESPN UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3636
+#EXTINF:0,USA Fight Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/81589
+#EXTINF:0,USA FIGHT NETWORK SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97533
+#EXTINF:0,USA FNTSY Sports Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/383474
+#EXTINF:0,USA FNTSY Sports Network SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/401210
+#EXTINF:0,USA Fox College Atlantic
+http://restream-live.realiptv.to:8080/waybetter3/live3/2565
+#EXTINF:0,USA Fox College Pacific
+http://restream-live.realiptv.to:8080/waybetter3/live3/2563
+#EXTINF:0,USA Fox College Sports Atlantic
+http://restream-live.realiptv.to:8080/waybetter3/live3/383081
+#EXTINF:0,USA FOX Deportes
+http://restream-live.realiptv.to:8080/waybetter3/live3/2559
+#EXTINF:0,USA Fox Deportes LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3853
+#EXTINF:0,USA FOX DEPORTES SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97535
+#EXTINF:0,USA Fox Deportes UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3809
+#EXTINF:0,USA Fox Network East SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21543
+#EXTINF:0,USA Fox New York SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/38209
+#EXTINF:0,USA Fox News Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/2543
+#EXTINF:0,USA FOX News Channel LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3731
+#EXTINF:0,USA Fox News SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21550
+#EXTINF:0,USA Fox News UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3647
+#EXTINF:0,USA Fox Soccer Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/2531
+#EXTINF:0,USA FOX Soccer Plus LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3800
+#EXTINF:0,USA Fox Sports 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/2501
+#EXTINF:0,USA Fox Sports 1 LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3732
+#EXTINF:0,USA Fox Sports 1 SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21592
+#EXTINF:0,USA Fox Sports 1 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3645
+#EXTINF:0,USA Fox Sports 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/2500
+#EXTINF:0,USA Fox Sports 2 LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3733
+#EXTINF:0,USA Fox Sports 2 SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21593
+#EXTINF:0,USA Fox Sports 2 UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3646
+#EXTINF:0,USA Fox Sports Arizona
+http://restream-live.realiptv.to:8080/waybetter3/live3/2530
+#EXTINF:0,USA Fox Sports Detroit
+http://restream-live.realiptv.to:8080/waybetter3/live3/2528
+#EXTINF:0,USA FOX Sports Detroit LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3781
+#EXTINF:0,USA FOX Sports Indiana Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/2525
+#EXTINF:0,USA Fox Sports Netbase
+http://restream-live.realiptv.to:8080/waybetter3/live3/2522
+#EXTINF:0,USA Fox Sports Ohio
+http://restream-live.realiptv.to:8080/waybetter3/live3/2518
+#EXTINF:0,USA FOX Sports Ohio LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3782
+#EXTINF:0,USA FOX Sports Prime Ticket
+http://restream-live.realiptv.to:8080/waybetter3/live3/2515
+#EXTINF:0,USA FOX Sports Prime Ticket LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3777
+#EXTINF:0,USA FOX Sports SanDiego LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3779
+#EXTINF:0,USA FOX Sports Southwest
+http://restream-live.realiptv.to:8080/waybetter3/live3/2511
+#EXTINF:0,USA FOX Sports Sun (North Florida)
+http://restream-live.realiptv.to:8080/waybetter3/live3/3780
+#EXTINF:0,USA Fox Sports Sun (South Florida)
+http://restream-live.realiptv.to:8080/waybetter3/live3/2509
+#EXTINF:0,USA FOX Sports Tennessee
+http://restream-live.realiptv.to:8080/waybetter3/live3/2508
+#EXTINF:0,USA FOX Sports Tennessee Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/3778
+#EXTINF:0,USA Fox Sports Wisconsin
+http://restream-live.realiptv.to:8080/waybetter3/live3/2506
+#EXTINF:0,USA Fox SportsTime Ohio
+http://restream-live.realiptv.to:8080/waybetter3/live3/2411
+#EXTINF:0,USA Fox SportsTime Ohio LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3803
+#EXTINF:0,USA bascket TV
+http://restream-live.realiptv.to:8080/waybetter3/live3/2470
+#EXTINF:0,USA bascket TV LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3751
+#EXTINF:0,USA bascket TV SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21576
+#EXTINF:0,USA bascket TV UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3667
+#EXTINF:0,USA NBC East New York SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/142037
+#EXTINF:0,USA NBC Sports Bay Area
+http://restream-live.realiptv.to:8080/waybetter3/live3/2436
+#EXTINF:0,USA NBC Sports Bay Area Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/50962
+#EXTINF:0,USA NBC Sports Boston
+http://restream-live.realiptv.to:8080/waybetter3/live3/2435
+#EXTINF:0,USA NBC Sports Boston LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3772
+#EXTINF:0,USA NBC Sports California
+http://restream-live.realiptv.to:8080/waybetter3/live3/3821
+#EXTINF:0,USA NBC Sports California Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/50963
+#EXTINF:0,USA NBC Sports Chicago
+http://restream-live.realiptv.to:8080/waybetter3/live3/3771
+#EXTINF:0,USA NBC Sports Chicago Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/2434
+#EXTINF:0,USA NBC Sports Chicago Plus 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/552930
+#EXTINF:0,USA NBC Sports Chicago Plus LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3775
+#EXTINF:0,USA NBC Sports Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/2433
+#EXTINF:0,USA NBC Sports Network LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3753
+#EXTINF:0,USA NBC Sports Network SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21598
+#EXTINF:0,USA NBC Sports Network UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3669
+#EXTINF:0,USA NBC Sports NorthWest
+http://restream-live.realiptv.to:8080/waybetter3/live3/2432
+#EXTINF:0,USA NBC Sports Philadelphia
+http://restream-live.realiptv.to:8080/waybetter3/live3/3769
+#EXTINF:0,USA NBC Sports Philadelphia Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/50965
+#EXTINF:0,USA NBC Sports Washington
+http://restream-live.realiptv.to:8080/waybetter3/live3/2431
+#EXTINF:0,USA NBC Sports Washington Alternate
+http://restream-live.realiptv.to:8080/waybetter3/live3/552929
+#EXTINF:0,USA NBC Sports Washington LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3770
+#EXTINF:0,USA NBC Sports Washington Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/50966
+#EXTINF:0,USA NCAAF 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383558
+#EXTINF:0,USA NCAAF 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383559
+#EXTINF:0,USA NCAAF 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383560
+#EXTINF:0,USA NCAAF 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383561
+#EXTINF:0,USA NCAAF 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383562
+#EXTINF:0,USA NCAAF 06: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383563
+#EXTINF:0,USA NCAAF 07: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383564
+#EXTINF:0,USA NCAAF 08: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383565
+#EXTINF:0,USA NCAAF 09: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383566
+#EXTINF:0,USA NCAAF 10: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383567
+#EXTINF:0,USA NCAAF 11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383568
+#EXTINF:0,USA NCAAF 12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383569
+#EXTINF:0,USA NCAAF 13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383570
+#EXTINF:0,USA NCAAF 14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383571
+#EXTINF:0,USA NCAAF 15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383572
+#EXTINF:0,USA NCAAF 16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383573
+#EXTINF:0,USA NCAAF 17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383574
+#EXTINF:0,USA NCAAF 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383575
+#EXTINF:0,USA NCAAF 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383576
+#EXTINF:0,USA NCAAF 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383577
+#EXTINF:0,USA NCAAF 21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383578
+#EXTINF:0,USA NCAAF 22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383579
+#EXTINF:0,USA NCAAF 23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383580
+#EXTINF:0,USA NCAAF 24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/383581
+#EXTINF:0,USA NCAAF 25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433478
+#EXTINF:0,USA NCAAF 26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433479
+#EXTINF:0,USA NCAAF 27: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433480
+#EXTINF:0,USA NCAAF 28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433481
+#EXTINF:0,USA NCAAF 29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433482
+#EXTINF:0,USA NCAAF 30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433483
+#EXTINF:0,USA NCAAF 31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433484
+#EXTINF:0,USA NCAAF 32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433485
+#EXTINF:0,USA NCAAF 33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433486
+#EXTINF:0,USA NCAAF 34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433487
+#EXTINF:0,USA NCAAF 35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/433488
+#EXTINF:0,USA NCAAF 36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435658
+#EXTINF:0,USA NCAAF 37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435659
+#EXTINF:0,USA NCAAF 38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435660
+#EXTINF:0,USA NCAAF 39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435661
+#EXTINF:0,USA NCAAF 40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435662
+#EXTINF:0,USA NCAAF 41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435663
+#EXTINF:0,USA NCAAF 42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435664
+#EXTINF:0,USA NCAAF 43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435665
+#EXTINF:0,USA NCAAF 44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435666
+#EXTINF:0,USA NCAAF 45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/435667
+#EXTINF:0,USA NESN Plus
+http://restream-live.realiptv.to:8080/waybetter3/live3/2425
+#EXTINF:0,USA NESN UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/149310
+#EXTINF:0,USA NFL Monday Night:  Los Angeles Rams vs  Arizona Cardinals @ 08:15 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/401124
+#EXTINF:0,USA NFL Network
+http://restream-live.realiptv.to:8080/waybetter3/live3/2424
+#EXTINF:0,USA NFL Network LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3754
+#EXTINF:0,USA NFL Network SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21600
+#EXTINF:0,USA NFL Network UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3670
+#EXTINF:0,USA NFL Red Zone LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3752
+#EXTINF:0,USA NFL REDZONE SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97491
+#EXTINF:0,USA NFL Redzone UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3671
+#EXTINF:0,USA NFL Sunday 705: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3913
+#EXTINF:0,USA NFL Sunday 706: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3914
+#EXTINF:0,USA NFL Sunday 707: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3915
+#EXTINF:0,USA NFL Sunday 708: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3916
+#EXTINF:0,USA NFL Sunday 709: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3917
+#EXTINF:0,USA NFL Sunday 710: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3918
+#EXTINF:0,USA NFL Sunday 711: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3919
+#EXTINF:0,USA NFL Sunday 712: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3920
+#EXTINF:0,USA NFL Sunday 713: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3921
+#EXTINF:0,USA NFL Sunday 714: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3922
+#EXTINF:0,USA NFL Sunday 715: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3923
+#EXTINF:0,USA NFL Sunday 716: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3924
+#EXTINF:0,USA NFL Sunday 717: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3925
+#EXTINF:0,USA NFL Sunday 718: SIGN OFF
+http://restream-live.realiptv.to:8080/waybetter3/live3/3926
+#EXTINF:0,USA NFL Sunday 719: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/506721
+#EXTINF:0,USA NFL Sunday Night: Tampa Bay Buccaneers vs Los Angeles Rams @ 03:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/401123
+#EXTINF:0,USA NFL Thursday Night: Los Angeles Chargers vs  Kansas City Chiefs @ 08:20 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/401125
+#EXTINF:0,USA NFL-Saints 
+http://restream-live.realiptv.to:8080/waybetter3/live3/401122
+#EXTINF:0,USA NFL: 49ers
+http://restream-live.realiptv.to:8080/waybetter3/live3/390458
+#EXTINF:0,USA NFL: Bears
+http://restream-live.realiptv.to:8080/waybetter3/live3/390457
+#EXTINF:0,USA NFL: Bengals
+http://restream-live.realiptv.to:8080/waybetter3/live3/390456
+#EXTINF:0,USA NFL: Bills
+http://restream-live.realiptv.to:8080/waybetter3/live3/390455
+#EXTINF:0,USA NFL: Broncos
+http://restream-live.realiptv.to:8080/waybetter3/live3/390454
+#EXTINF:0,USA NFL: Browns
+http://restream-live.realiptv.to:8080/waybetter3/live3/390453
+#EXTINF:0,USA NFL: Buccaneers
+http://restream-live.realiptv.to:8080/waybetter3/live3/390452
+#EXTINF:0,USA NFL: Cardinals
+http://restream-live.realiptv.to:8080/waybetter3/live3/390451
+#EXTINF:0,USA NFL: Chargers
+http://restream-live.realiptv.to:8080/waybetter3/live3/390450
+#EXTINF:0,USA NFL: Chiefs
+http://restream-live.realiptv.to:8080/waybetter3/live3/390449
+#EXTINF:0,USA NFL: Colts
+http://restream-live.realiptv.to:8080/waybetter3/live3/390448
+#EXTINF:0,USA NFL: Cowboys
+http://restream-live.realiptv.to:8080/waybetter3/live3/390447
+#EXTINF:0,USA NFL: Dolphins
+http://restream-live.realiptv.to:8080/waybetter3/live3/390446
+#EXTINF:0,USA NFL: Eagles
+http://restream-live.realiptv.to:8080/waybetter3/live3/390445
+#EXTINF:0,USA NFL: Falcons
+http://restream-live.realiptv.to:8080/waybetter3/live3/390444
+#EXTINF:0,USA NFL: Giants
+http://restream-live.realiptv.to:8080/waybetter3/live3/390443
+#EXTINF:0,USA NFL: Jaguars
+http://restream-live.realiptv.to:8080/waybetter3/live3/390442
+#EXTINF:0,USA NFL: Jets
+http://restream-live.realiptv.to:8080/waybetter3/live3/390441
+#EXTINF:0,USA NFL: Lions
+http://restream-live.realiptv.to:8080/waybetter3/live3/390440
+#EXTINF:0,USA NFL: Packers
+http://restream-live.realiptv.to:8080/waybetter3/live3/390439
+#EXTINF:0,USA NFL: Panthers
+http://restream-live.realiptv.to:8080/waybetter3/live3/390438
+#EXTINF:0,USA NFL: Patriots
+http://restream-live.realiptv.to:8080/waybetter3/live3/390437
+#EXTINF:0,USA NFL: Raiders
+http://restream-live.realiptv.to:8080/waybetter3/live3/390436
+#EXTINF:0,USA NFL: Rams
+http://restream-live.realiptv.to:8080/waybetter3/live3/390435
+#EXTINF:0,USA NFL: Ravens
+http://restream-live.realiptv.to:8080/waybetter3/live3/390434
+#EXTINF:0,USA NFL: Redskins
+http://restream-live.realiptv.to:8080/waybetter3/live3/390433
+#EXTINF:0,USA NFL: Seahawks
+http://restream-live.realiptv.to:8080/waybetter3/live3/390432
+#EXTINF:0,USA NFL: Steelers
+http://restream-live.realiptv.to:8080/waybetter3/live3/390431
+#EXTINF:0,USA NFL: Texans
+http://restream-live.realiptv.to:8080/waybetter3/live3/390430
+#EXTINF:0,USA NFL: Titans
+http://restream-live.realiptv.to:8080/waybetter3/live3/390429
+#EXTINF:0,USA NFL: Vikings
+http://restream-live.realiptv.to:8080/waybetter3/live3/390428
+#EXTINF:0,USA NHL Anaheim Ducks
+http://restream-live.realiptv.to:8080/waybetter3/live3/509719
+#EXTINF:0,USA NHL Arizona Coyotes
+http://restream-live.realiptv.to:8080/waybetter3/live3/509707
+#EXTINF:0,USA NHL Boston Bruins
+http://restream-live.realiptv.to:8080/waybetter3/live3/509711
+#EXTINF:0,USA NHL Buffalo Sabres
+http://restream-live.realiptv.to:8080/waybetter3/live3/509710
+#EXTINF:0,USA NHL Calgary Flames
+http://restream-live.realiptv.to:8080/waybetter3/live3/509713
+#EXTINF:0,USA NHL Carolina Hurricanes
+http://restream-live.realiptv.to:8080/waybetter3/live3/509725
+#EXTINF:0,USA NHL Chicago Blackhawks
+http://restream-live.realiptv.to:8080/waybetter3/live3/509730
+#EXTINF:0,USA NHL Colorado Avalanche
+http://restream-live.realiptv.to:8080/waybetter3/live3/509736
+#EXTINF:0,USA NHL Columbus Blue Jackets
+http://restream-live.realiptv.to:8080/waybetter3/live3/509734
+#EXTINF:0,USA NHL Dallas Stars
+http://restream-live.realiptv.to:8080/waybetter3/live3/509709
+#EXTINF:0,USA NHL Detroit Red Wings
+http://restream-live.realiptv.to:8080/waybetter3/live3/509737
+#EXTINF:0,USA NHL Edmonton Oilers
+http://restream-live.realiptv.to:8080/waybetter3/live3/509722
+#EXTINF:0,USA NHL Florida Panthers
+http://restream-live.realiptv.to:8080/waybetter3/live3/509716
+#EXTINF:0,USA NHL Los Angeles Kings
+http://restream-live.realiptv.to:8080/waybetter3/live3/509712
+#EXTINF:0,USA NHL Minnesota Wild
+http://restream-live.realiptv.to:8080/waybetter3/live3/509733
+#EXTINF:0,USA NHL Montreal Canadiens
+http://restream-live.realiptv.to:8080/waybetter3/live3/509728
+#EXTINF:0,USA NHL Nashville Predators
+http://restream-live.realiptv.to:8080/waybetter3/live3/509724
+#EXTINF:0,USA NHL Network SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21615
+#EXTINF:0,USA NHL Network UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3672
+#EXTINF:0,USA NHL New Jersey Devils
+http://restream-live.realiptv.to:8080/waybetter3/live3/509718
+#EXTINF:0,USA NHL New York Islanders
+http://restream-live.realiptv.to:8080/waybetter3/live3/509735
+#EXTINF:0,USA NHL New York Rangers
+http://restream-live.realiptv.to:8080/waybetter3/live3/509732
+#EXTINF:0,USA NHL Ottawa Senators
+http://restream-live.realiptv.to:8080/waybetter3/live3/509729
+#EXTINF:0,USA NHL Philadelphia Flyers
+http://restream-live.realiptv.to:8080/waybetter3/live3/509714
+#EXTINF:0,USA NHL Pittsburgh Penguins
+http://restream-live.realiptv.to:8080/waybetter3/live3/509717
+#EXTINF:0,USA NHL San Jose Sharks
+http://restream-live.realiptv.to:8080/waybetter3/live3/509720
+#EXTINF:0,USA NHL St Louis Blues
+http://restream-live.realiptv.to:8080/waybetter3/live3/509723
+#EXTINF:0,USA NHL Tampa Bay Lightning
+http://restream-live.realiptv.to:8080/waybetter3/live3/509727
+#EXTINF:0,USA NHL Toronto Maple Leafs
+http://restream-live.realiptv.to:8080/waybetter3/live3/509731
+#EXTINF:0,USA NHL Vancouver Canucks
+http://restream-live.realiptv.to:8080/waybetter3/live3/509721
+#EXTINF:0,USA NHL Vegas Golden Knights
+http://restream-live.realiptv.to:8080/waybetter3/live3/509708
+#EXTINF:0,USA NHL Washington Capitals
+http://restream-live.realiptv.to:8080/waybetter3/live3/509726
+#EXTINF:0,USA NHL Winnipeg Jets
+http://restream-live.realiptv.to:8080/waybetter3/live3/509715
+#EXTINF:0,USA Olympic Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/2423
+#EXTINF:0,USA OLYMPIC CHANNEL SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97513
+#EXTINF:0,USA Real Cricket 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469886
+#EXTINF:0,USA Real Cricket 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469887
+#EXTINF:0,USA Real Cricket 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469888
+#EXTINF:0,USA Real Cricket 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469889
+#EXTINF:0,USA Real Cricket 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469890
+#EXTINF:0,USA Real Cycling 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469896
+#EXTINF:0,USA Real Cycling 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469897
+#EXTINF:0,USA Real Cycling 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469898
+#EXTINF:0,USA Real Cycling 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469899
+#EXTINF:0,USA Real Cycling 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469900
+#EXTINF:0,USA Real Golf 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469891
+#EXTINF:0,USA Real Golf 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469892
+#EXTINF:0,USA Real Golf 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469893
+#EXTINF:0,USA Real Golf 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469894
+#EXTINF:0,USA Real Golf 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469895
+#EXTINF:0,USA Real MLB 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177038
+#EXTINF:0,USA Real MLB 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177039
+#EXTINF:0,USA Real MLB 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177040
+#EXTINF:0,USA Real MLB 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177041
+#EXTINF:0,USA Real MLB 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177042
+#EXTINF:0,USA Real MLB 06: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177043
+#EXTINF:0,USA Real MLB 07: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177044
+#EXTINF:0,USA Real MLB 08: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177045
+#EXTINF:0,USA Real MLB 09: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177046
+#EXTINF:0,USA Real MLB 10: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177047
+#EXTINF:0,USA Real MLB 11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177048
+#EXTINF:0,USA Real MLB 12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177049
+#EXTINF:0,USA Real MLB 13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177050
+#EXTINF:0,USA Real MLB 14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177051
+#EXTINF:0,USA Real MLB 15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177052
+#EXTINF:0,USA Real MLB 16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177053
+#EXTINF:0,USA Real MLB 17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177054
+#EXTINF:0,USA Real MLB 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177055
+#EXTINF:0,USA Real MLB 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177056
+#EXTINF:0,USA Real MLB 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177057
+#EXTINF:0,USA Real MLB 21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177058
+#EXTINF:0,USA Real MLB 22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177059
+#EXTINF:0,USA Real MLB 23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177060
+#EXTINF:0,USA Real MLB 24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177061
+#EXTINF:0,USA Real MLB 25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177062
+#EXTINF:0,USA Real MLB 26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177063
+#EXTINF:0,USA Real MLB 28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177064
+#EXTINF:0,USA Real MLB 29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177065
+#EXTINF:0,USA Real MLB 30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177066
+#EXTINF:0,USA Real MLB 31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177067
+#EXTINF:0,USA Real MLB 32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177068
+#EXTINF:0,USA Real MLB 33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177069
+#EXTINF:0,USA Real MLB 34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177070
+#EXTINF:0,USA Real MLB 35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177071
+#EXTINF:0,USA Real MLB 36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177072
+#EXTINF:0,USA Real MLB 37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177073
+#EXTINF:0,USA Real MLB 38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177074
+#EXTINF:0,USA Real MLB 39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177075
+#EXTINF:0,USA Real MLB 40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177076
+#EXTINF:0,USA Real MLB 41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177077
+#EXTINF:0,USA Real MLB 42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177078
+#EXTINF:0,USA Real MLB 43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177079
+#EXTINF:0,USA Real MLB 44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177080
+#EXTINF:0,USA Real MLB 45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177081
+#EXTINF:0,USA Real MLB 46: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177082
+#EXTINF:0,USA Real MLB 47: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177083
+#EXTINF:0,USA Real MLB 48: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177084
+#EXTINF:0,USA Real MLB 49: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177085
+#EXTINF:0,USA Real MLB 50: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177086
+#EXTINF:0,USA Real MLB 51: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177087
+#EXTINF:0,USA Real MLB 52: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177088
+#EXTINF:0,USA Real MLB 53: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177089
+#EXTINF:0,USA Real MLB 54: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177090
+#EXTINF:0,USA Real MLB 55: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177091
+#EXTINF:0,USA Real MLB 56: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177092
+#EXTINF:0,USA Real MLB 57: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177093
+#EXTINF:0,USA Real MLB 58: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177094
+#EXTINF:0,USA Real MLB 59: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177095
+#EXTINF:0,USA Real MLB 60: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177096
+#EXTINF:0,USA Real MLB 61: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/177097
+#EXTINF:0,USA Real MotorSport 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469901
+#EXTINF:0,USA Real MotorSport 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469902
+#EXTINF:0,USA Real MotorSport 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469903
+#EXTINF:0,USA Real MotorSport 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469904
+#EXTINF:0,USA Real MotorSport 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469905
+#EXTINF:0,USA Real bascket 01: Toronto Raptors vs Charlotte Hornets @ 07:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214171
+#EXTINF:0,USA Real bascket 02: Toronto Raptors vs Charlotte Hornets @ 07:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214172
+#EXTINF:0,USA Real bascket 03: Miami Heat vs Washington Wizards @ 07:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214173
+#EXTINF:0,USA Real bascket 04: Miami Heat vs Washington Wizards @ 07:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214174
+#EXTINF:0,USA Real bascket 05: Phoenix Suns vs Chicago Bulls @ 08:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214175
+#EXTINF:0,USA Real bascket 06: Phoenix Suns vs Chicago Bulls @ 08:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214176
+#EXTINF:0,USA Real bascket 07: Golden State Warriors vs Oklahoma City Thunder @ 08:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214177
+#EXTINF:0,USA Real bascket 08: Golden State Warriors vs Oklahoma City Thunder @ 08:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214178
+#EXTINF:0,USA Real bascket 09: New York Knicks vs Utah Jazz @ 09:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214179
+#EXTINF:0,USA Real bascket 10: New York Knicks vs Utah Jazz @ 09:00 PM
+http://restream-live.realiptv.to:8080/waybetter3/live3/214180
+#EXTINF:0,USA Real bascket 11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214181
+#EXTINF:0,USA Real bascket 12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214182
+#EXTINF:0,USA Real bascket 13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214183
+#EXTINF:0,USA Real bascket 14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214184
+#EXTINF:0,USA Real bascket 15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214185
+#EXTINF:0,USA Real bascket 16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214186
+#EXTINF:0,USA Real bascket 17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214187
+#EXTINF:0,USA Real bascket 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214188
+#EXTINF:0,USA Real bascket 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214189
+#EXTINF:0,USA Real bascket 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214190
+#EXTINF:0,USA Real bascket 21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214191
+#EXTINF:0,USA Real bascket 22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214192
+#EXTINF:0,USA Real bascket 23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214193
+#EXTINF:0,USA Real bascket 24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214194
+#EXTINF:0,USA Real bascket 25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214195
+#EXTINF:0,USA Real bascket 26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214196
+#EXTINF:0,USA Real bascket 27: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214197
+#EXTINF:0,USA Real bascket 28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214198
+#EXTINF:0,USA Real bascket 29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214199
+#EXTINF:0,USA Real bascket 30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214200
+#EXTINF:0,USA Real bascket 31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214201
+#EXTINF:0,USA Real bascket 32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214202
+#EXTINF:0,USA Real bascket 33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214203
+#EXTINF:0,USA Real bascket 34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214204
+#EXTINF:0,USA Real bascket 35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214205
+#EXTINF:0,USA Real bascket 36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214206
+#EXTINF:0,USA Real bascket 37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214207
+#EXTINF:0,USA Real bascket 38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214208
+#EXTINF:0,USA Real bascket 39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214209
+#EXTINF:0,USA Real bascket 40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214210
+#EXTINF:0,USA Real bascket 41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214211
+#EXTINF:0,USA Real bascket 42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214212
+#EXTINF:0,USA Real bascket 43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214213
+#EXTINF:0,USA Real bascket 44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214214
+#EXTINF:0,USA Real bascket 45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214215
+#EXTINF:0,USA Real bascket 46: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214216
+#EXTINF:0,USA Real bascket 47: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214217
+#EXTINF:0,USA Real bascket 48: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214218
+#EXTINF:0,USA Real bascket 49: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214219
+#EXTINF:0,USA Real bascket 50: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214220
+#EXTINF:0,USA Real bascket 51: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214221
+#EXTINF:0,USA Real bascket 52: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214222
+#EXTINF:0,USA Real bascket 53: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214223
+#EXTINF:0,USA Real bascket 54: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214224
+#EXTINF:0,USA Real bascket 55: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214225
+#EXTINF:0,USA Real bascket 56: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214226
+#EXTINF:0,USA Real bascket 57: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214227
+#EXTINF:0,USA Real bascket 58: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214228
+#EXTINF:0,USA Real bascket 59: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214229
+#EXTINF:0,USA Real bascket 60: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/214230
+#EXTINF:0,USA Real NHL 01: Carolina Hurricanes VS Toronto Maple Leafs (TVAS Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205046
+#EXTINF:0,USA Real NHL 02: Carolina Hurricanes VS Toronto Maple Leafs (SN Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205047
+#EXTINF:0,USA Real NHL 03: Carolina Hurricanes VS Toronto Maple Leafs (BSSO Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205048
+#EXTINF:0,USA Real NHL 04: Carolina Hurricanes VS Toronto Maple Leafs (Toronto Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205049
+#EXTINF:0,USA Real NHL 05: New Jersey Devils VS Ottawa Senators (SN1 Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205050
+#EXTINF:0,USA Real NHL 06: New Jersey Devils VS Ottawa Senators (RDS Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205051
+#EXTINF:0,USA Real NHL 07: New Jersey Devils VS Ottawa Senators (MSG+ Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205052
+#EXTINF:0,USA Real NHL 08: New Jersey Devils VS Ottawa Senators (Ottawa Feed ) @ 19:00
+http://restream-live.realiptv.to:8080/waybetter3/live3/205053
+#EXTINF:0,USA Real NHL 09: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205054
+#EXTINF:0,USA Real NHL 10: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205055
+#EXTINF:0,USA Real NHL 11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205056
+#EXTINF:0,USA Real NHL 12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205057
+#EXTINF:0,USA Real NHL 13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205058
+#EXTINF:0,USA Real NHL 14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205059
+#EXTINF:0,USA Real NHL 15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205060
+#EXTINF:0,USA Real NHL 16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205061
+#EXTINF:0,USA Real NHL 17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205062
+#EXTINF:0,USA Real NHL 18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205063
+#EXTINF:0,USA Real NHL 19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205064
+#EXTINF:0,USA Real NHL 20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205065
+#EXTINF:0,USA Real NHL 21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205066
+#EXTINF:0,USA Real NHL 22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205067
+#EXTINF:0,USA Real NHL 23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205068
+#EXTINF:0,USA Real NHL 24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205069
+#EXTINF:0,USA Real NHL 25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205070
+#EXTINF:0,USA Real NHL 26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205071
+#EXTINF:0,USA Real NHL 27: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205072
+#EXTINF:0,USA Real NHL 28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205073
+#EXTINF:0,USA Real NHL 29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205074
+#EXTINF:0,USA Real NHL 30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205075
+#EXTINF:0,USA Real NHL 31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205076
+#EXTINF:0,USA Real NHL 32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205077
+#EXTINF:0,USA Real NHL 33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205078
+#EXTINF:0,USA Real NHL 34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205079
+#EXTINF:0,USA Real NHL 35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205080
+#EXTINF:0,USA Real NHL 36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205081
+#EXTINF:0,USA Real NHL 37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205082
+#EXTINF:0,USA Real NHL 38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205083
+#EXTINF:0,USA Real NHL 39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205084
+#EXTINF:0,USA Real NHL 40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205085
+#EXTINF:0,USA Real NHL 41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205086
+#EXTINF:0,USA Real NHL 42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205087
+#EXTINF:0,USA Real NHL 43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205088
+#EXTINF:0,USA Real NHL 44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205089
+#EXTINF:0,USA Real NHL 45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205090
+#EXTINF:0,USA Real NHL 46: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205091
+#EXTINF:0,USA Real NHL 47: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205092
+#EXTINF:0,USA Real NHL 48: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205093
+#EXTINF:0,USA Real NHL 49: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205094
+#EXTINF:0,USA Real NHL 50: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205095
+#EXTINF:0,USA Real NHL 51: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205096
+#EXTINF:0,USA Real NHL 52: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205097
+#EXTINF:0,USA Real NHL 53: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205098
+#EXTINF:0,USA Real NHL 54: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205099
+#EXTINF:0,USA Real NHL 55: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205100
+#EXTINF:0,USA Real NHL 56: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205101
+#EXTINF:0,USA Real NHL 57: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205102
+#EXTINF:0,USA Real NHL 58: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205103
+#EXTINF:0,USA Real NHL 59: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205104
+#EXTINF:0,USA Real NHL 60: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/205105
+#EXTINF:0,USA Real Rugby 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469881
+#EXTINF:0,USA Real Rugby 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469882
+#EXTINF:0,USA Real Rugby 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469883
+#EXTINF:0,USA Real Rugby 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469884
+#EXTINF:0,USA Real Rugby 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469885
+#EXTINF:0,USA Real Tennis 01: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469876
+#EXTINF:0,USA Real Tennis 02: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469877
+#EXTINF:0,USA Real Tennis 03: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469878
+#EXTINF:0,USA Real Tennis 04: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469879
+#EXTINF:0,USA Real Tennis 05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/469880
+#EXTINF:0,USA Soccer01: Spain - La Liga : Athletic Club vs Espanyol @ 03:00pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/38039
+#EXTINF:0,USA Soccer02: Italy - Serie A : Salernitana vs Spezia @ 02:45pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/21812
+#EXTINF:0,USA Soccer03: Portugal - Primeira Liga : Tondela vs Benfica @ 02:00pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/21823
+#EXTINF:0,USA Soccer04: Portugal - Primeira Liga : Moreirense vs Belenenses @ 04:15pm
+http://restream-live.realiptv.to:8080/waybetter3/live3/21824
+#EXTINF:0,USA Soccer05: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21825
+#EXTINF:0,USA Soccer06: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21826
+#EXTINF:0,USA Soccer07: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21827
+#EXTINF:0,USA Soccer08: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21828
+#EXTINF:0,USA Soccer09: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21829
+#EXTINF:0,USA Soccer10: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21830
+#EXTINF:0,USA Soccer11: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21831
+#EXTINF:0,USA Soccer12: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21832
+#EXTINF:0,USA Soccer13: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21833
+#EXTINF:0,USA Soccer14: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21834
+#EXTINF:0,USA Soccer15: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21835
+#EXTINF:0,USA Soccer16: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21836
+#EXTINF:0,USA Soccer17: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21837
+#EXTINF:0,USA Soccer18: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21838
+#EXTINF:0,USA Soccer19: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21839
+#EXTINF:0,USA Soccer20: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21840
+#EXTINF:0,USA Soccer21: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21841
+#EXTINF:0,USA Soccer22: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21842
+#EXTINF:0,USA Soccer23: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21843
+#EXTINF:0,USA Soccer24: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21844
+#EXTINF:0,USA Soccer25: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21845
+#EXTINF:0,USA Soccer26: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21846
+#EXTINF:0,USA Soccer27: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21847
+#EXTINF:0,USA Soccer28: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21848
+#EXTINF:0,USA Soccer29: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21849
+#EXTINF:0,USA Soccer30: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/21850
+#EXTINF:0,USA Soccer31: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/332847
+#EXTINF:0,USA Soccer32: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390504
+#EXTINF:0,USA Soccer33: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390505
+#EXTINF:0,USA Soccer34: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390506
+#EXTINF:0,USA Soccer35: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390507
+#EXTINF:0,USA Soccer36: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390508
+#EXTINF:0,USA Soccer37: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390509
+#EXTINF:0,USA Soccer38: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390510
+#EXTINF:0,USA Soccer39: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390511
+#EXTINF:0,USA Soccer40: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390512
+#EXTINF:0,USA Soccer41: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390513
+#EXTINF:0,USA Soccer42: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390514
+#EXTINF:0,USA Soccer43: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390515
+#EXTINF:0,USA Soccer44: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390516
+#EXTINF:0,USA Soccer45: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390517
+#EXTINF:0,USA Soccer46: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390518
+#EXTINF:0,USA Soccer47: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390519
+#EXTINF:0,USA Soccer48: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390520
+#EXTINF:0,USA Soccer49: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390521
+#EXTINF:0,USA Soccer50: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390522
+#EXTINF:0,USA Soccer51: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390523
+#EXTINF:0,USA Soccer52: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390524
+#EXTINF:0,USA Soccer53: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390525
+#EXTINF:0,USA Soccer54: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390526
+#EXTINF:0,USA Soccer55: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390527
+#EXTINF:0,USA Soccer56: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390528
+#EXTINF:0,USA Soccer57: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390529
+#EXTINF:0,USA Soccer58: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390530
+#EXTINF:0,USA Soccer59: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390531
+#EXTINF:0,USA Soccer60: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390532
+#EXTINF:0,USA Soccer61: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390533
+#EXTINF:0,USA Soccer62: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390534
+#EXTINF:0,USA Soccer63: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390535
+#EXTINF:0,USA Soccer64: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390536
+#EXTINF:0,USA Soccer65: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390537
+#EXTINF:0,USA Soccer66: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390538
+#EXTINF:0,USA Soccer67: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390539
+#EXTINF:0,USA Soccer68: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390540
+#EXTINF:0,USA Soccer69: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390541
+#EXTINF:0,USA Soccer70: 
+http://restream-live.realiptv.to:8080/waybetter3/live3/390542
+#EXTINF:0,USA Sony Movie Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/2412
+#EXTINF:0,USA Sony Movie Channel LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3866
+#EXTINF:0,USA SONY MOVIE SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97482
+#EXTINF:0,USA Spectrum SportsNet LA Dodgers
+http://restream-live.realiptv.to:8080/waybetter3/live3/74683
+#EXTINF:0,USA Spectrum SportsNet LA Dodgers SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/401166
+#EXTINF:0,USA Spectrum SportsNet Lakers (FHD)
+http://restream-live.realiptv.to:8080/waybetter3/live3/512561
+#EXTINF:0,USA Spectrum SportsNet Lakers (HD)
+http://restream-live.realiptv.to:8080/waybetter3/live3/74684
+#EXTINF:0,USA Spectrum SportsNet Lakers Alternate
+http://restream-live.realiptv.to:8080/waybetter3/live3/552928
+#EXTINF:0,USA Spectrum SportsNet Lakers SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/401165
+#EXTINF:0,USA Sportsman
+http://restream-live.realiptv.to:8080/waybetter3/live3/78636
+#EXTINF:0,USA SPORTSMAN CHANNEL SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97483
+#EXTINF:0,USA SportsNet New York FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3865
+#EXTINF:0,USA SportsNet New York SNY
+http://restream-live.realiptv.to:8080/waybetter3/live3/2413
+#EXTINF:0,USA SPORTSNET NY SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97492
+#EXTINF:0,USA SPORTSNET SOUTHWEST SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97493
+#EXTINF:0,USA Stadium
+http://restream-live.realiptv.to:8080/waybetter3/live3/3867
+#EXTINF:0,USA Stadium 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/3869
+#EXTINF:0,USA Stadium 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/2409
+#EXTINF:0,USA STADIUM SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/97494
+#EXTINF:0,USA Stadium1
+http://restream-live.realiptv.to:8080/waybetter3/live3/3868
+#EXTINF:0,USA Tennis Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/2386
+#EXTINF:0,USA Tennis Channel LHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3762
+#EXTINF:0,USA Tennis Channel Plus 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/333540
+#EXTINF:0,USA Tennis Channel Plus 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/333541
+#EXTINF:0,USA Tennis Channel Plus 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/333542
+#EXTINF:0,USA Tennis Channel SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/21607
+#EXTINF:0,USA Tennis Channel UHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/3685
+#EXTINF:0,USA The Cowboy Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/84912
+#EXTINF:0,USA The Cowboy Channel SD
+http://restream-live.realiptv.to:8080/waybetter3/live3/401202
+#EXTINF:0,[bascket] ATLANTA HAWKS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89060
+#EXTINF:0,[bascket] BOSTON CELTICS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89061
+#EXTINF:0,[bascket] BROOKLYN NETS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89062
+#EXTINF:0,[bascket] CHARLOTTE HORNETS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89063
+#EXTINF:0,[bascket] CHICAGO BULLS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89064
+#EXTINF:0,[bascket] CLEVELAND CAVALIERS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89065
+#EXTINF:0,[bascket] DALLAS MAVERICKS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89066
+#EXTINF:0,[bascket] DENVER NUGGETS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89067
+#EXTINF:0,[bascket] DETROIT PISTONS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89068
+#EXTINF:0,[bascket] GOLDEN STATE WARRIORS
+http://restream-live.realiptv.to:8080/waybetter3/live3/92887
+#EXTINF:0,[bascket] HOUSTON ROCKETS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89069
+#EXTINF:0,[bascket] INDIANA PACERS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89070
+#EXTINF:0,[bascket] LOS ANGELES CLIPPERS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89071
+#EXTINF:0,[bascket] LOS ANGELES LAKERS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89072
+#EXTINF:0,[bascket] MEMPHIS GRIZZLIES
+http://restream-live.realiptv.to:8080/waybetter3/live3/89073
+#EXTINF:0,[bascket] MIAMI HEAT
+http://restream-live.realiptv.to:8080/waybetter3/live3/89074
+#EXTINF:0,[bascket] MILWAUKEE BUCKS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89075
+#EXTINF:0,[bascket] MINNESOTA TIMBERWOLVES
+http://restream-live.realiptv.to:8080/waybetter3/live3/89076
+#EXTINF:0,[bascket] NEW ORLEANS PELICANS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89077
+#EXTINF:0,[bascket] NEW YORK KNICKS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89078
+#EXTINF:0,[bascket] OKLAHOMA CITY THUNDER
+http://restream-live.realiptv.to:8080/waybetter3/live3/89079
+#EXTINF:0,[bascket] ORLANDO MAGIC
+http://restream-live.realiptv.to:8080/waybetter3/live3/89080
+#EXTINF:0,[bascket] PHILADELPHIA 76ERS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89081
+#EXTINF:0,[bascket] PHOENIX SUNS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89082
+#EXTINF:0,[bascket] PORTLAND TRAIL BLAZERS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89083
+#EXTINF:0,[bascket] SACRAMENTO KINGS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89084
+#EXTINF:0,[bascket] SAN ANTONIO SPURS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89085
+#EXTINF:0,[bascket] TORONTO RAPTORS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89086
+#EXTINF:0,[bascket] UTAH JAZZ
+http://restream-live.realiptv.to:8080/waybetter3/live3/89087
+#EXTINF:0,[bascket] WASHINGTON WIZARDS
+http://restream-live.realiptv.to:8080/waybetter3/live3/89088
+#EXTINF:0,Astro Arena 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/587715
+#EXTINF:0,Astro Arena HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587716
+#EXTINF:0,Astro SuperSport HD	
+http://restream-live.realiptv.to:8080/waybetter3/live3/587717
+#EXTINF:0,Astro SuperSport 2 HD  
+http://restream-live.realiptv.to:8080/waybetter3/live3/587718
+#EXTINF:0,Astro SuperSport 3 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587719
+#EXTINF:0,Astro SuperSport 4 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587720
+#EXTINF:0,Astro SuperSport 5 HD  
+http://restream-live.realiptv.to:8080/waybetter3/live3/587721
+#EXTINF:0,Astro Cricket HD	
+http://restream-live.realiptv.to:8080/waybetter3/live3/587722
+#EXTINF:0,NIeb Sports MAX HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587723
+#EXTINF:0,Astro: NIeb Sports MAX HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587724
+#EXTINF:0,Astro: NIeb Sports HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587725
+#EXTINF:0,Astro: EUROSPORT HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/587726
+#EXTINF:0,Astro: RUGBY PASS TV
+http://restream-live.realiptv.to:8080/waybetter3/live3/587727
+#EXTINF:0,IT Rai Sport
+http://restream-live.realiptv.to:8080/waybetter3/live3/588668
+#EXTINF:0,IT RAI Sport+
+http://restream-live.realiptv.to:8080/waybetter3/live3/588669
+#EXTINF:0,ES NIeb LA Liga FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588710
+#EXTINF:0,ES NIeb Sport FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588711
+#EXTINF:0,ES NIeb Sport HD VIP
+http://restream-live.realiptv.to:8080/waybetter3/live3/588712
+#EXTINF:0,ES NIeb SPORTS LaLiga
+http://restream-live.realiptv.to:8080/waybetter3/live3/588713
+#EXTINF:0,ES NIebSport HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588714
+#EXTINF:0,ES NIebSport LaLiga HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588715
+#EXTINF:0,ES Eurosport 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/588742
+#EXTINF:0,ES EuroSport 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588743
+#EXTINF:0,ES Eurosport 2 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588744
+#EXTINF:0,ES Movistar  Deportes 1 FHD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588767
+#EXTINF:0,ES Movistar Deportes 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/588774
+#EXTINF:0,ES Movistar F1
+http://restream-live.realiptv.to:8080/waybetter3/live3/588776
+#EXTINF:0,ES Movistar Formula 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588777
+#EXTINF:0,ES Movistar Futbol
+http://restream-live.realiptv.to:8080/waybetter3/live3/588778
+#EXTINF:0,ES Movistar Golf
+http://restream-live.realiptv.to:8080/waybetter3/live3/588779
+#EXTINF:0,ES Movistar Liga de Campeones 1 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588780
+#EXTINF:0,ES Movistar Liga de Campeones 4 HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588781
+#EXTINF:0,ES Movistar Moto GP HD
+http://restream-live.realiptv.to:8080/waybetter3/live3/588782
+#EXTINF:0,ES Real Madrid TV
+http://restream-live.realiptv.to:8080/waybetter3/live3/588797
+#EXTINF:0,RO EUROSPORT 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/596465
+#EXTINF:0,RO EUROSPORT 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/596466
+#EXTINF:0,RO TELEKOM SPORT 4
+http://restream-live.realiptv.to:8080/waybetter3/live3/596483
+#EXTINF:0,RO TELEKOM SPORT 3
+http://restream-live.realiptv.to:8080/waybetter3/live3/596484
+#EXTINF:0,RO TELEKOM SPORT 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/596485
+#EXTINF:0,RO TELEKOM SPORT 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/596486
+#EXTINF:0,USA Olympics Must See Moments
+http://restream-live.realiptv.to:8080/waybetter3/live3/598374
+#EXTINF:0,USA Olympics Great Moments
+http://restream-live.realiptv.to:8080/waybetter3/live3/598375
+#EXTINF:0,USA Olympics USA A TEAM
+http://restream-live.realiptv.to:8080/waybetter3/live3/598376
+#EXTINF:0,USA The Olympics Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/598377
+#EXTINF:0,USA Olympics Channel HD - ATT
+http://restream-live.realiptv.to:8080/waybetter3/live3/598378
+#EXTINF:0,USA Olympics NBC Channel
+http://restream-live.realiptv.to:8080/waybetter3/live3/598379
+#EXTINF:0,UK earth Sports Racing (1080)
+http://restream-live.realiptv.to:8080/waybetter3/live3/527483
