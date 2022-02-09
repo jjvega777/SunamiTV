@@ -101,6 +101,14 @@ http://qqtv.nl:8080/Mike1234/Mike1234/20292
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="401" group-title="Peliculas",Runtime
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="542" group-title="Deportes",(UK) EuroSport 1 
+http://restream-live.realiptv.to:8080/waybetter3/live3/2286
+#EXTINF:-1  tvg-id="543" group-title="Deportes",(UK) EuroSport 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/2285
+#EXTINF:-1  tvg-id="544" group-title="Deportes",(RO) EuroSport 1
+http://restream-live.realiptv.to:8080/waybetter3/live3/596466
+#EXTINF:-1  tvg-id="545" group-title="Deportes",(RO) EuroSport 2
+http://restream-live.realiptv.to:8080/waybetter3/live3/596465
 #EXTINF:-1  tvg-id="546" group-title="Deportes",ESPN
 http://qqtv.nl:8080/Mike1234/Mike1234/20269
 #EXTINF:-1  tvg-id="547" group-title="Deportes",ESPN 2
