@@ -134,7 +134,7 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 #EXTINF:-1  tvg-id="599" group-title="Deportes",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1  tvg-id="556" group-title="Deportes", Canal 4 Monclova
-http://162.241.190.126:1935/live/canal4/playlist.
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1  tvg-id="610" group-title="Automotor",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="819" group-title="Musica",TOP Latino TV
