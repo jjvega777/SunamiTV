@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1  tvg-id="1" group-title="CCTV",Andador 13 A1.HD
+rtsp://Vlcplayer1:Vlcplayer1@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1  tvg-id="1" group-title="CCTV",Andador 13 A1.LOW RES
+rtsp://Vlcplayer1:Vlcplayer1@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+
+
+
 #EXTINF:-1  tvg-id="101" group-title="Mexico y Noticias",Uno TV
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1  tvg-id="102" group-title="Mexico y Noticias",ADN40
